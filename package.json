@@ -1,0 +1,19 @@
+{
+  "name": "posit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Astro website for hosting markdown documents",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "keywords": ["astro", "markdown", "documentation"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^5.16.4"
+  }
+}

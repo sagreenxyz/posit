@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/Layout.astro';
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Posit - Home">
+  <h1>Welcome to Posit</h1>
+  
+  <p>
+    Posit is a modern documentation site built with <a href="https://astro.build" target="_blank">Astro</a>, 
+    designed to host and display markdown documents beautifully.
+  </p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>📝 Write content in Markdown</li>
+    <li>🚀 Fast static site generation with Astro</li>
+    <li>🎨 Clean and readable design</li>
+    <li>📱 Responsive layout</li>
+    <li>🌙 Syntax highlighting for code blocks</li>
+  </ul>
+
+  <h2>Getting Started</h2>
+  <p>
+    Check out the <a href={`${base}docs/getting-started/`}>Getting Started guide</a> to learn how to use this site.
+  </p>
+
+  <h2>Quick Example</h2>
+  <p>Here's a sample of markdown rendering:</p>
+  
+  <pre><code>## This is a heading
+
+This is a paragraph with **bold** and *italic* text.
+
+- List item 1
+- List item 2
+- List item 3</code></pre>
+
+  <blockquote>
+    <p>
+      "Documentation is a love letter that you write to your future self." - Damian Conway
+    </p>
+  </blockquote>
+</Layout>
