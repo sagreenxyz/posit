@@ -139,4 +139,4 @@ Potential additions could include:
 
 ---
 
-Ready to get started? Check out the [Getting Started guide](/docs/getting-started)!
+Ready to get started? Check out the [Getting Started guide](./getting-started/)!

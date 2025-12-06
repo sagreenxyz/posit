@@ -70,4 +70,4 @@ This project is open-source and available under standard licensing terms.
 
 ---
 
-**Ready to start building?** Head over to the [Getting Started guide](/docs/getting-started) to begin!
+**Ready to start building?** Head over to the [Getting Started guide](./docs/getting-started/) to begin!

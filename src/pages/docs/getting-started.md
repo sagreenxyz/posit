@@ -140,6 +140,6 @@ npm run preview
 
 ## Next Steps
 
-- Explore the [Features](/docs/features) page to learn more
-- Check out the [About](/about) page
+- Explore the [Features](./features/) page to learn more
+- Check out the [About](../about/) page
 - Start creating your own documentation!

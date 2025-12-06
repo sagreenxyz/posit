@@ -100,6 +100,27 @@ Modify `astro.config.mjs` to change Astro settings, including markdown configura
 
 ## Deployment
 
+### GitHub Pages (Recommended)
+
+This site is configured to automatically deploy to GitHub Pages. 
+
+#### Setup Steps:
+
+1. **Enable GitHub Pages in your repository:**
+   - Go to your repository on GitHub
+   - Navigate to **Settings** → **Pages**
+   - Under **Source**, select **GitHub Actions**
+
+2. **Push to the main branch:**
+   - The GitHub Actions workflow (`.github/workflows/deploy.yml`) will automatically build and deploy your site
+   - Your site will be available at `https://sagreenxyz.github.io/posit`
+
+3. **Monitor the deployment:**
+   - Go to the **Actions** tab in your repository to see the deployment progress
+   - Once complete, your site will be live!
+
+#### Manual Deployment
+
 Build the site for production:
 
 ```bash
@@ -108,7 +129,6 @@ npm run build
 
 The static site will be generated in the `dist/` directory. Deploy this folder to any static hosting service:
 
-- **GitHub Pages**: Use GitHub Actions workflow
 - **Netlify**: Connect your repository and set build command to `npm run build`
 - **Vercel**: Import your repository and deploy
 - **Cloudflare Pages**: Connect repository with build command `npm run build`
