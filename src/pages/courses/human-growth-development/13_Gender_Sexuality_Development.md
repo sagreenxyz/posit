@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Gender and Sexuality Development Across the Lifespan
+---
+
 # Document 13: Gender and Sexuality Development Across the Lifespan
 
 ## Introduction

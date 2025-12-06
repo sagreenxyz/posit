@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Health and Risk Topics Across the Lifespan
+---
+
 # Document 14: Health and Risk Topics Across the Lifespan
 
 ## Introduction
