@@ -1,4 +1,9 @@
-# Document 15: Comprehensive Pathologies Summary
+---
+layout: ../../../layouts/Layout.astro
+title: Comprehensive Pathologies Summary
+---
+
+# Comprehensive Pathologies Summary
 
 ## Introduction
 
