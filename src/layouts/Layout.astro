@@ -17,9 +17,22 @@ const base = import.meta.env.BASE_URL;
     :root {
       --color-bg: #ffffff;
       --color-text: #333333;
+      --color-text-secondary: #666666;
       --color-accent: #0066cc;
       --color-border: #e0e0e0;
+      --color-code-bg: #f5f5f5;
+      --color-header-border: #e0e0e0;
       --max-width: 800px;
+    }
+
+    [data-theme="dark"] {
+      --color-bg: #1a1a1a;
+      --color-text: #e0e0e0;
+      --color-text-secondary: #a0a0a0;
+      --color-accent: #4da6ff;
+      --color-border: #404040;
+      --color-code-bg: #2a2a2a;
+      --color-header-border: #404040;
     }
 
     * {
@@ -27,12 +40,31 @@ const base = import.meta.env.BASE_URL;
       margin: 0;
       padding: 0;
     }
+header-border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
 
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-      line-height: 1.6;
+    header h1 {
+      color: var(--color-accent);
+      font-size: 2rem;
+      margin: 0;
+    }
+
+    .theme-toggle {
+      background: none;
+      border: 1px solid var(--color-border);
       color: var(--color-text);
-      background-color: var(--color-bg);
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 1.2rem;
+      transition: background-color 0.2s, border-color 0.2s;
+    }
+
+    .theme-toggle:hover {
+      background-color: var(--color-code-bg)r: var(--color-bg);
       padding: 2rem 1rem;
     }
 
@@ -56,7 +88,7 @@ const base = import.meta.env.BASE_URL;
     nav {
       margin: 2rem auto;
       max-width: var(--max-width);
-    }
+    }var(--color-code-bg)
 
     nav ul {
       list-style: none;
@@ -84,15 +116,15 @@ const base = import.meta.env.BASE_URL;
       margin-bottom: 0.5rem;
       color: var(--color-text);
     }
-
-    .content h1 { font-size: 2rem; }
-    .content h2 { font-size: 1.5rem; }
-    .content h3 { font-size: 1.25rem; }
-
-    .content p {
+var(--color-code-bg);
+      padding: 1rem;
+      border-radius: 4px;
+      overflow-x: auto;
       margin-bottom: 1rem;
     }
 
+    .content code {
+      background-color: var(--color-code-bg)
     .content ul, .content ol {
       margin-bottom: 1rem;
       margin-left: 2rem;
@@ -108,7 +140,7 @@ const base = import.meta.env.BASE_URL;
       border-radius: 4px;
       overflow-x: auto;
       margin-bottom: 1rem;
-    }
+    }var(--color-text-secondary)
 
     .content code {
       background-color: #f5f5f5;
@@ -133,7 +165,7 @@ const base = import.meta.env.BASE_URL;
     .content a {
       color: var(--color-accent);
       text-decoration: none;
-    }
+    }var(--color-code-bg)
 
     .content a:hover {
       text-decoration: underline;
@@ -142,15 +174,20 @@ const base = import.meta.env.BASE_URL;
     .content table {
       width: 100%;
       border-collapse: collapse;
-      margin-bottom: 1rem;
+      margin-var(--color-text-secondary);
+      font-size: 0.9rem;
     }
-
-    .content th, .content td {
-      border: 1px solid var(--color-border);
-      padding: 0.5rem;
-      text-align: left;
-    }
-
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1><a href={base} style="color: inherit; text-decoration: none;">Posit</a></h1>
+      <p style="margin: 0;">Documentation and Markdown Hosting</p>
+    </div>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+      <span id="theme-icon">🌙</span>
+    </button
     .content th {
       background-color: #f5f5f5;
     }
@@ -165,6 +202,39 @@ const base = import.meta.env.BASE_URL;
       font-size: 0.9rem;
     }
   </style>
+
+  <script>
+    // Theme toggle functionality
+    const themeToggle = document.getElementById('theme-toggle');
+    const themeIcon = document.getElementById('theme-icon');
+    const html = document.documentElement;
+
+    // Check for saved theme preference or default to light mode
+    const currentTheme = localStorage.getItem('theme') || 'light';
+    html.setAttribute('data-theme', currentTheme);
+    updateIcon(currentTheme);
+
+    themeToggle?.addEventListener('click', () => {
+      const theme = html.getAttribute('data-theme');
+      const newTheme = theme === 'light' ? 'dark' : 'light';
+      
+      html.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      updateIcon(newTheme);
+    });
+
+    function updateIcon(theme) {
+      if (themeIcon) {
+        themeIcon.textContent = theme === 'light' ? '🌙' : '☀️';
+      }
+    }
+
+    // Apply theme immediately on page load to prevent flash
+    (function() {
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+    })();
+  </script>
 </head>
 <body>
   <header>
