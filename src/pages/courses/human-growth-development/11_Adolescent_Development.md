@@ -1,4 +1,9 @@
-# Document 11: Adolescent Development
+---
+layout: ../../../layouts/Layout.astro
+title: Adolescent Development
+---
+
+# Adolescent Development
 
 ## Introduction
 

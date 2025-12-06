@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Intelligence Theories & Assessment
+---
+
 # Intelligence Theories & Assessment: A Comprehensive Reference Guide
 
 ## Introduction

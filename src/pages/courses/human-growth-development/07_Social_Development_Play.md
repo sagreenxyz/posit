@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Social Development & Play
+---
+
 # Social Development & Play: A Comprehensive Reference Guide
 
 ## Introduction

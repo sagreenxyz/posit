@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Brain Development Across the Lifespan
+---
+
 # Brain Development Across the Lifespan
 
 ## Introduction

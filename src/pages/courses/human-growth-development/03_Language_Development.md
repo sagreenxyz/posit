@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Language Development Across the Lifespan
+---
+
 # Language Development Across the Lifespan
 
 ## Introduction

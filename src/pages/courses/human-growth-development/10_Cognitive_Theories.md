@@ -1,4 +1,9 @@
-# Document 10: Cognitive Theories in Human Development
+---
+layout: ../../../layouts/Layout.astro
+title: Cognitive Theories in Human Development
+---
+
+# Cognitive Theories in Human Development
 
 ## Introduction
 

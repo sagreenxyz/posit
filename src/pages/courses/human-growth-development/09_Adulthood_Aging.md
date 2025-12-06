@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Adulthood & Aging
+---
+
 # Adulthood & Aging: A Comprehensive Reference Guide
 
 ## Introduction

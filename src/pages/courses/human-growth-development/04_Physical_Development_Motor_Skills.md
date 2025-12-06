@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Physical Development and Motor Skills Across the Lifespan
+---
+
 # Physical Development and Motor Skills Across the Lifespan
 
 ## Introduction

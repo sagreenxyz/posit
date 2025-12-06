@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Temperament and Personality Development
+---
+
 # Temperament and Personality Development
 
 ## Introduction

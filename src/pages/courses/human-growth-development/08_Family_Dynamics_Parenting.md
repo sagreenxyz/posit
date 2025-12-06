@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Family Dynamics & Parenting
+---
+
 # Family Dynamics & Parenting: A Comprehensive Reference Guide
 
 ## Introduction

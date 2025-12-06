@@ -1,3 +1,8 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Prenatal Development and Birth
+---
+
 # Prenatal Development and Birth
 ## Comprehensive Reference Guide
 

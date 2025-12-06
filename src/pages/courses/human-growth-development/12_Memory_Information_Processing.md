@@ -1,4 +1,9 @@
-# Document 12: Memory & Information Processing
+---
+layout: ../../../layouts/Layout.astro
+title: Memory & Information Processing
+---
+
+# Memory & Information Processing
 
 ## Introduction
 
