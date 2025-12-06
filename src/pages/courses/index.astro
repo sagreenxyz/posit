@@ -1,0 +1,34 @@
+---
+import Layout from '../../layouts/Layout.astro';
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Courses - Posit">
+  <h1>Courses</h1>
+  
+  <p>
+    Browse available courses and their materials. Each course contains lecture notes, 
+    study guides, and additional resources.
+  </p>
+
+  <div style="margin-top: 2rem;">
+    <h2>Available Courses</h2>
+    
+    <div style="border: 1px solid var(--color-border); border-radius: 4px; padding: 1.5rem; margin-top: 1rem;">
+      <h3>
+        <a href={`${base}courses/human-growth-development/`} style="color: var(--color-accent); text-decoration: none;">
+          Human Growth and Development
+        </a>
+      </h3>
+      <p style="margin-top: 0.5rem; color: #666;">
+        Explore the physical, cognitive, and psychosocial development across the human lifespan.
+      </p>
+    </div>
+
+    <!-- Add more courses here as needed -->
+  </div>
+
+  <p style="margin-top: 2rem; color: #666; font-style: italic;">
+    More courses coming soon...
+  </p>
+</Layout>

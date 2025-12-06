@@ -1,0 +1,36 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Human Growth and Development - Posit">
+  <h1>Human Growth and Development</h1>
+  
+  <p>
+    This course examines human development from conception through death, 
+    exploring physical, cognitive, and psychosocial changes throughout the lifespan.
+  </p>
+
+  <h2>Course Materials</h2>
+  
+  <div style="display: grid; gap: 1rem; margin-top: 1.5rem;">
+    <div style="border: 1px solid var(--color-border); border-radius: 4px; padding: 1rem;">
+      <h3 style="margin-top: 0;">📚 Course Topics</h3>
+      <ul style="margin-top: 0.5rem;">
+        <li><a href={`${base}courses/human-growth-development/introduction/`}>Introduction to Human Development</a></li>
+        <li><a href={`${base}courses/human-growth-development/01_Prenatal_Development_and_Birth/`}>01 - Prenatal Development and Birth</a></li>
+        <li><a href={`${base}courses/human-growth-development/02_Brain_Development_Across_Lifespan/`}>02 - Brain Development Across Lifespan</a></li>
+        <li><a href={`${base}courses/human-growth-development/03_Language_Development/`}>03 - Language Development</a></li>
+        <li><a href={`${base}courses/human-growth-development/04_Physical_Development_Motor_Skills/`}>04 - Physical Development and Motor Skills</a></li>
+        <li><a href={`${base}courses/human-growth-development/05_Temperament_Personality_Development/`}>05 - Temperament and Personality Development</a></li>
+        <li><a href={`${base}courses/human-growth-development/06_Intelligence_Theories_Assessment/`}>06 - Intelligence Theories and Assessment</a></li>
+        <li><a href={`${base}courses/human-growth-development/07_Social_Development_Play/`}>07 - Social Development and Play</a></li>
+        <li><a href={`${base}courses/human-growth-development/08_Family_Dynamics_Parenting/`}>08 - Family Dynamics and Parenting</a></li>
+        <li><a href={`${base}courses/human-growth-development/09_Adulthood_Aging/`}>09 - Adulthood and Aging</a></li>
+        <li><a href={`${base}courses/human-growth-development/10_Cognitive_Theories/`}>10 - Cognitive Theories</a></li>
+        <li><a href={`${base}courses/human-growth-development/11_Adolescent_Development/`}>11 - Adolescent Development</a></li>
+        <li><a href={`${base}courses/human-growth-development/12_Memory_Information_Processing/`}>12 - Memory and Information Processing</a></li>
+      </ul>
+    </div>
+  </div>
+</Layout>
