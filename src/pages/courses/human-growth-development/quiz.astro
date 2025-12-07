@@ -345,6 +345,8 @@ import questionBank from './_question_bank.json';
 		const feedbackExplanation = document.createElement('div');
 		feedbackExplanation.className = 'feedback-explanation';
 		feedbackExplanation.textContent = question.explanation;
+		feedbackExplanation.style.color = '#000';
+		feedbackExplanation.style.fontWeight = '500';
 
 		feedbackContainer.innerHTML = '';
 		feedbackContainer.appendChild(feedbackTitle);
