@@ -1,0 +1,415 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import questionBank from './_question_bank.json';
+---
+
+<Layout title="Human Growth and Development Quiz">
+	<div class="quiz-container">
+		<div class="quiz-header">
+			<h1>Human Growth and Development Quiz</h1>
+			<div class="quiz-stats">
+				<span id="question-counter">Question 1 of {questionBank.questions.length}</span>
+				<span id="score-display">Score: 0/{questionBank.questions.length}</span>
+			</div>
+		</div>
+
+		<div id="quiz-content">
+			<div class="question-card">
+				<div class="question-text" id="question-text"></div>
+				<div class="choices" id="choices-container"></div>
+				<div class="quiz-actions">
+					<button id="submit-answer" class="btn btn-primary">Submit Answer</button>
+					<button id="next-question" class="btn btn-secondary" style="display: none;">Next Question</button>
+				</div>
+				<div id="feedback-container" style="display: none;"></div>
+			</div>
+		</div>
+
+		<div id="results-screen" style="display: none;">
+			<h2>Quiz Complete!</h2>
+			<div id="final-score"></div>
+			<button id="restart-quiz" class="btn btn-primary">Restart Quiz</button>
+		</div>
+	</div>
+</Layout>
+
+<style>
+	.quiz-container {
+		max-width: 900px;
+		margin: 2rem auto;
+		padding: 2rem;
+	}
+
+	.quiz-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 2rem;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid #e0e0e0;
+	}
+
+	.quiz-header h1 {
+		font-size: 1.8rem;
+		margin: 0;
+		color: #333;
+	}
+
+	.quiz-stats {
+		display: flex;
+		gap: 2rem;
+		font-size: 1rem;
+		color: #666;
+	}
+
+	.question-card {
+		background: white;
+		border-radius: 8px;
+		padding: 2rem;
+		box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+	}
+
+	.question-text {
+		font-size: 1.3rem;
+		font-weight: 600;
+		color: #222;
+		margin-bottom: 2rem;
+		line-height: 1.6;
+	}
+
+	.choices {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+		margin-bottom: 2rem;
+	}
+
+	.choice {
+		display: flex;
+		align-items: center;
+		padding: 1rem;
+		border: 2px solid #ddd;
+		border-radius: 6px;
+		cursor: pointer;
+		transition: all 0.2s;
+		background: white;
+	}
+
+	.choice:hover {
+		border-color: #4a90e2;
+		background: #f8f9fa;
+	}
+
+	.choice input[type="checkbox"],
+	.choice input[type="radio"] {
+		margin-right: 1rem;
+		width: 20px;
+		height: 20px;
+		cursor: pointer;
+	}
+
+	.choice label {
+		flex: 1;
+		cursor: pointer;
+		font-size: 1.1rem;
+		color: #333;
+	}
+
+	.choice.selected {
+		border-color: #4a90e2;
+		background: #e3f2fd;
+	}
+
+	.choice.correct {
+		border-color: #4caf50;
+		background: #e8f5e9;
+	}
+
+	.choice.incorrect {
+		border-color: #f44336;
+		background: #ffebee;
+	}
+
+	.choice.disabled {
+		cursor: not-allowed;
+		opacity: 0.6;
+	}
+
+	.quiz-actions {
+		display: flex;
+		gap: 1rem;
+		margin-top: 2rem;
+	}
+
+	.btn {
+		padding: 0.8rem 2rem;
+		font-size: 1rem;
+		font-weight: 600;
+		border: none;
+		border-radius: 6px;
+		cursor: pointer;
+		transition: all 0.2s;
+	}
+
+	.btn-primary {
+		background: #4a90e2;
+		color: white;
+	}
+
+	.btn-primary:hover {
+		background: #357abd;
+	}
+
+	.btn-primary:disabled {
+		background: #ccc;
+		cursor: not-allowed;
+	}
+
+	.btn-secondary {
+		background: #6c757d;
+		color: white;
+	}
+
+	.btn-secondary:hover {
+		background: #545b62;
+	}
+
+	#feedback-container {
+		margin-top: 2rem;
+		padding: 1.5rem;
+		border-radius: 6px;
+		background: #f8f9fa;
+		border-left: 4px solid #4a90e2;
+	}
+
+	#feedback-container.correct {
+		background: #e8f5e9;
+		border-left-color: #4caf50;
+	}
+
+	#feedback-container.incorrect {
+		background: #ffebee;
+		border-left-color: #f44336;
+	}
+
+	.feedback-title {
+		font-size: 1.2rem;
+		font-weight: 600;
+		margin-bottom: 0.5rem;
+	}
+
+	.feedback-explanation {
+		font-size: 1rem;
+		line-height: 1.6;
+		color: #555;
+	}
+
+	#results-screen {
+		text-align: center;
+		padding: 3rem;
+		background: white;
+		border-radius: 8px;
+		box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+	}
+
+	#results-screen h2 {
+		font-size: 2rem;
+		margin-bottom: 1rem;
+		color: #333;
+	}
+
+	#final-score {
+		font-size: 1.5rem;
+		margin: 2rem 0;
+		color: #666;
+	}
+
+	.score-percentage {
+		font-size: 3rem;
+		font-weight: bold;
+		color: #4a90e2;
+		display: block;
+		margin: 1rem 0;
+	}
+</style>
+
+<script define:vars={{ questionBank }}>
+	let currentQuestionIndex = 0;
+	let score = 0;
+	let selectedAnswers = [];
+	let questions = questionBank.questions;
+
+	// Shuffle questions for randomized quiz
+	questions = questions.sort(() => Math.random() - 0.5);
+
+	function loadQuestion() {
+		const question = questions[currentQuestionIndex];
+		selectedAnswers = [];
+
+		// Update question counter
+		document.getElementById('question-counter').textContent = 
+			`Question ${currentQuestionIndex + 1} of ${questions.length}`;
+
+		// Update question text
+		document.getElementById('question-text').textContent = question.question;
+
+		// Render choices
+		const choicesContainer = document.getElementById('choices-container');
+		choicesContainer.innerHTML = '';
+
+		const inputType = question.type === 'multiple_select' ? 'checkbox' : 'radio';
+
+		question.choices.forEach((choice) => {
+			const choiceDiv = document.createElement('div');
+			choiceDiv.className = 'choice';
+			choiceDiv.dataset.choiceId = choice.id;
+
+			const input = document.createElement('input');
+			input.type = inputType;
+			input.name = 'answer';
+			input.id = `choice-${choice.id}`;
+			input.value = choice.id;
+
+			const label = document.createElement('label');
+			label.htmlFor = `choice-${choice.id}`;
+			label.textContent = choice.text;
+
+			choiceDiv.appendChild(input);
+			choiceDiv.appendChild(label);
+
+			// Add click handler for the entire div
+			choiceDiv.addEventListener('click', (e) => {
+				if (e.target.tagName !== 'INPUT') {
+					input.click();
+				}
+			});
+
+			// Add change handler for input
+			input.addEventListener('change', () => {
+				if (inputType === 'radio') {
+					document.querySelectorAll('.choice').forEach(c => c.classList.remove('selected'));
+					choiceDiv.classList.add('selected');
+					selectedAnswers = [choice.id];
+				} else {
+					if (input.checked) {
+						choiceDiv.classList.add('selected');
+						if (!selectedAnswers.includes(choice.id)) {
+							selectedAnswers.push(choice.id);
+						}
+					} else {
+						choiceDiv.classList.remove('selected');
+						selectedAnswers = selectedAnswers.filter(id => id !== choice.id);
+					}
+				}
+				
+				// Enable submit button if answer selected
+				document.getElementById('submit-answer').disabled = selectedAnswers.length === 0;
+			});
+
+			choicesContainer.appendChild(choiceDiv);
+		});
+
+		// Reset buttons
+		document.getElementById('submit-answer').style.display = 'inline-block';
+		document.getElementById('submit-answer').disabled = true;
+		document.getElementById('next-question').style.display = 'none';
+		document.getElementById('feedback-container').style.display = 'none';
+	}
+
+	function checkAnswer() {
+		const question = questions[currentQuestionIndex];
+		const correctAnswers = question.correct_answers.sort();
+		const userAnswers = selectedAnswers.sort();
+
+		// Check if answer is correct
+		const isCorrect = JSON.stringify(correctAnswers) === JSON.stringify(userAnswers);
+
+		if (isCorrect) {
+			score++;
+			document.getElementById('score-display').textContent = 
+				`Score: ${score}/${questions.length}`;
+		}
+
+		// Show feedback
+		const feedbackContainer = document.getElementById('feedback-container');
+		feedbackContainer.style.display = 'block';
+		feedbackContainer.className = isCorrect ? 'correct' : 'incorrect';
+
+		const feedbackTitle = document.createElement('div');
+		feedbackTitle.className = 'feedback-title';
+		feedbackTitle.textContent = isCorrect ? '✓ Correct!' : '✗ Incorrect';
+
+		const feedbackExplanation = document.createElement('div');
+		feedbackExplanation.className = 'feedback-explanation';
+		feedbackExplanation.textContent = question.explanation;
+
+		feedbackContainer.innerHTML = '';
+		feedbackContainer.appendChild(feedbackTitle);
+		feedbackContainer.appendChild(feedbackExplanation);
+
+		// Highlight correct/incorrect choices
+		document.querySelectorAll('.choice').forEach((choiceDiv) => {
+			const choiceId = parseInt(choiceDiv.dataset.choiceId);
+			const input = choiceDiv.querySelector('input');
+			input.disabled = true;
+			choiceDiv.classList.add('disabled');
+
+			if (correctAnswers.includes(choiceId)) {
+				choiceDiv.classList.add('correct');
+			} else if (userAnswers.includes(choiceId)) {
+				choiceDiv.classList.add('incorrect');
+			}
+		});
+
+		// Update buttons
+		document.getElementById('submit-answer').style.display = 'none';
+		document.getElementById('next-question').style.display = 'inline-block';
+	}
+
+	function nextQuestion() {
+		currentQuestionIndex++;
+
+		if (currentQuestionIndex < questions.length) {
+			loadQuestion();
+		} else {
+			showResults();
+		}
+	}
+
+	function showResults() {
+		document.getElementById('quiz-content').style.display = 'none';
+		document.getElementById('results-screen').style.display = 'block';
+
+		const percentage = Math.round((score / questions.length) * 100);
+		const finalScoreDiv = document.getElementById('final-score');
+		
+		finalScoreDiv.innerHTML = `
+			<div class="score-percentage">${percentage}%</div>
+			<div>You answered ${score} out of ${questions.length} questions correctly.</div>
+		`;
+	}
+
+	function restartQuiz() {
+		currentQuestionIndex = 0;
+		score = 0;
+		selectedAnswers = [];
+		
+		// Reshuffle questions
+		questions = questions.sort(() => Math.random() - 0.5);
+
+		document.getElementById('quiz-content').style.display = 'block';
+		document.getElementById('results-screen').style.display = 'none';
+		document.getElementById('score-display').textContent = `Score: 0/${questions.length}`;
+
+		loadQuestion();
+	}
+
+	// Event listeners
+	document.getElementById('submit-answer').addEventListener('click', checkAnswer);
+	document.getElementById('next-question').addEventListener('click', nextQuestion);
+	document.getElementById('restart-quiz').addEventListener('click', restartQuiz);
+
+	// Load first question
+	loadQuestion();
+</script>
+</Layout>

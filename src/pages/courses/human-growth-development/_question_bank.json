@@ -1,0 +1,3402 @@
+{
+  "metadata": {
+    "title": "Human Growth and Development Question Bank",
+    "total_questions": 114,
+    "description": "Comprehensive question bank from WGU Human Growth and Development course"
+  },
+  "questions": [
+    {
+      "question": "What are two things that can cause pregnancy loss during the embryonic period? Choose 2 answers.",
+      "type": "multiple_select",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The zygote does not replicate",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Gross chromosomal abnormalities",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Exposure to harmful substances",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        1,
+        2
+      ],
+      "explanation": "\"Gross chromosomal abnormalities\" is correct. Some organisms fail during the embryonic period, usually due to gross chromosomal abnormalities. \"Exposure to harmful substances\" is correct. During the embryonic period, the embryo is most vulnerable to harmful substances and many mothers may not yet be aware that they are pregnant or may not be aware of the risks they introduce to the embryo."
+    },
+    {
+      "question": "By which period of prenatal development have the majority of the neurons in the brain developed?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Zygotic period",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Germinal period",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Embryonic period",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Fetal period",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "\"Fetal period\" is correct. The majority of the neurons in the brain have developed by 24 weeks."
+    },
+    {
+      "question": "When is an APGAR assessment conducted on infants?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "One month after birth",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "One week after birth",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "One to two days after birth",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "One to five minutes after birth",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "The APGAR assessment is conducted between one minute and five minutes after birth."
+    },
+    {
+      "question": "What is postpartum depression?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A serious mental illness that can affect a new mother following childbirth",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A common, temporary state of sadness in the mother, right after childbirth",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "An elevated sense of worry about the infant following childbirth",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Unusual sadness occurring in the period following childbirth",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Postpartum depression is an unusual sadness occurring in the period following childbirth."
+    },
+    {
+      "question": "What is an example of the cephalocaudal pattern of growth and motor development in infants?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Controlling the legs and feet before controlling the arms and hands",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Controlling trunk muscles before controlling legs and feet",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Using fingers before using whole hands",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Crawling before grasping objects with hands",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The cephalocaudal path refers to motor development proceeding from head to tail."
+    },
+    {
+      "question": "At what age do a young child's eyes start to reach adult levels of development and allow them to see sharp detail?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "At three months",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "At birth",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "At fifteen months",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "At eight weeks",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The part of the eye that makes up the central field of vision in the retina and allows people to see sharp detail starts to reach adult levels of development at 15 months."
+    },
+    {
+      "question": "What are teratogens?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Axons that form neural pathways",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Environmental factors that can contribute to birth defects",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Regions of the brain that contain cell bodies",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Dendrites",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Teratogens include some maternal diseases, pollutants, drugs, and alcohol."
+    },
+    {
+      "question": "Which disorder is an autosomal dominant disorder?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Tourette syndrome",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Sickle cell disease",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Cystic fibrosis",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Tay-Sachs disease",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Tourette syndrome is an autosomal dominant disorder that can express itself in heterozygous conditions."
+    },
+    {
+      "question": "What describes infantile amnesia?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "An inability to recall memories from the first few years of life",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "A low number of red blood cells (RBCs)",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Difficulty in the area of writing",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Difficulty in the area of reading",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Infantile amnesia is marked by a child’s inability to remember memories from the first few years of life."
+    },
+    {
+      "question": "Which characteristic describes lateralization?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Synaptic blooming",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "The adaptability of the brain to change both physically and chemically to enhance its adaptability",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Synaptic pruning",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The localization of different functions in a certain side of the brain",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Lateralization is known as the process in which different functions become localized mainly in one side of the brain."
+    },
+    {
+      "question": "Which characteristic of language describes semantics?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The social side of language",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "The construction of a sentence",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The set of rules used to obtain meaning from morphemes",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "The set of rules that explain how words are used in a language",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Semantics encompasses all the rules used to determine meaning from morphemes."
+    },
+    {
+      "question": "What does scaffolding refer to in the context of early childhood cognitive development?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A child rehearses previous information when they need to remember new information.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A child’s speech focuses on self without including anyone else’s points of view.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A child makes connections between new words and already-known concepts as a way to learn new words.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "A child obtains temporary support from their caregivers or teachers while performing a certain task.",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Scaffolding occurs when a child can get temporary aid from teachers and caregivers so that they can perform a task properly."
+    },
+    {
+      "question": "What describes evocative genotype-environmental correlation?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Modifications in DNA affect gene expression and are passed on when the cells divide.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Children passively inherit the genes and the environments their family provides.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Individuals seek environmental factors to support their genetic tendencies.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The social environment interacts with individuals based on their inherited characteristics.",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "In evocative genotype-environmental correlation, the social environment interacts with children based on their inherited characteristics."
+    },
+    {
+      "question": "What are the two emotional responses that a child exhibits at birth?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Anger and sadness",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Attraction and withdrawal",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Fear and shame",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Laughter and jealousy",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Attraction is expressed at birth when children are provided with comfort and pleasure, and withdrawal is expressed at birth when experiencing physical discomfort."
+    },
+    {
+      "question": "How can a healthy eating pattern be established during early childhood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Caregivers should provide balanced meals prepared at home.",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Children should be rewarded with sweets for eating fruits and vegetables.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Caregivers should ensure that children eat equal amounts of food at each meal.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The food choices should vary for every child in the family.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Meals prepared at home have better nutrition than frozen or fast foods."
+    },
+    {
+      "question": "How does the sleeping pattern of a toddler differ from that of a newborn?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "In a toddler, the duration of sleep will be less, but the percentage of rapid eye movement sleep will be greater.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "The duration of sleep and the percentage of rapid eye movement sleep will be less in a toddler.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "The duration of sleep and the percentage of rapid eye movement sleep will be greater in a toddler.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "In a toddler, the duration of sleep will be greater, but the percentage of rapid eye movement sleep will be less.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Newborns will sleep up to 16.5 hours per day while toddlers sleep around 10 hours. The rapid eye movement phase in newborns is 50%, while it is 25–30% in toddlers."
+    },
+    {
+      "question": "What is the definition of a cisgender person?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A person who lacks or has an imperfect second X chromosome",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A person who identifies with a gender other than the gender assigned to them at birth",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A person who is born with either an absence or some combination of male and female reproductive organs, sex hormones, or sex chromosomes",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "A person whose current gender aligns with their gender assigned at birth",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "People whose sex and gender assigned at birth match are referred to as cisgender."
+    },
+    {
+      "question": "What is social learning theory in the context of gender development in children?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The theory that children develop their concept of gender using their own cognitive skills.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "The theory that many gender stereotypes are so strong because gender is heavily emphasized in culture",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The theory that behavior is learned through observation, modeling, reinforcement, and punishment",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "The theory that children develop their own conceptions of the attributes associated with maleness or femaleness",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Bandura’s social learning theory argues that behavior is learned through observation, modeling, reinforcement, and punishment."
+    },
+    {
+      "question": "What describes Parten’s classification of play termed \"associative play\"?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Children observe other children playing.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Children play alongside each other using similar toys.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Children interact and share toys without a common goal.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Children play by themselves.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Associative play occurs when children interact with each other and share toys but are not working toward a common goal."
+    },
+    {
+      "question": "According to the National Institute of Child Health and Human Development's longitudinal study, how does child care affect development?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Children cared for by their mothers resulted in better behavior than children cared for in high-quality child care facilities.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Children cared for in child care facilities resulted in more behavioral problems than children cared for in a private home.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Lower quality of care predicted more behavioral problems than higher quality care.",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Lower quality care predicted more behavioral problems and poorer cognitive, language, and school readiness."
+    },
+    {
+      "question": "Which parenting style is characterized by parents who demonstrate strong communication skills and display reasoning instead of coercion as preferred responses to children’s misbehavior?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Authoritative",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Authoritarian",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Permissive",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Uninvolved",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Authoritative parenting styles are characterized by parents who support their children and show interest in their children's activities, but they are not overbearing. They allow children to make constructive mistakes."
+    },
+    {
+      "question": "Which qualities do children of permissive parents tend to display?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Fearful, performing poorly in school, increased risk of substance abuse",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Low self-esteem and anxiety",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "High self-esteem and high social skills",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Risky and impulsive behaviors, lack of self-discipline, lower levels of depression",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Permissive parents tend to hold expectations of children that are below what could be reasonably expected from them. This often results in children who display risky and impulsive behaviors, a lack of self-discipline, and lower levels of depression."
+    },
+    {
+      "question": "What does the term “gender role” mean? Choose the one correct answer.",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A person's sexual interest in or attraction to other",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A person’s sense of self as a member of a particular gender",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Cultural, social, and psychological meanings associated with masculinity and femininity",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Society's concept of how each gender is expected to act and behave",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "As children grow, they learn how to behave from those around them and are introduced to certain roles that are typically linked to their biological sex."
+    },
+    {
+      "question": "Which socioemotional factors that develop during childhood affect a child’s emotions and relationships with others? Choose 2 answers.",
+      "type": "multiple_select",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Emotional self-regulation",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Empathy",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Sense of identity",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Finding meaning through work",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0,
+        1
+      ],
+      "explanation": "Emotional self-regulation is correct. Emotional self-regulation refers to children's ability to monitor, evaluate, and modify their emotional reactions in any given situation. Empathy is correct. The development of empathy is a crucial part of emotional and social development in childhood."
+    },
+    {
+      "question": "How does motor development progress in infants? Choose [2] answers.",
+      "type": "multiple_select",
+      "choices": [
+        {
+          "id": 0,
+          "text": "From reflexive reactions to fine motor skills",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "From fine motor skills to gross motor skills",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "From reflexive reactions to more advanced motor functioning",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "From gross motor skills to advanced reflexive reactions",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0,
+        2
+      ],
+      "explanation": "\"From reflexive reactions to fine motor skills\" is correct. \"From reflexive reactions to more advanced motor functioning\" is correct."
+    },
+    {
+      "question": "Which physical development during the prenatal period is marked by development from the midline outward?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Proximodistal",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Synaptogenesis",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Cephalocaudal",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Sensorimotor",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which process describes the time in children's cognitive development when different functions become localized primarily on one side of the brain?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Neuroplasticity",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Synaptogenesis",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Synaptic blooming",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Lateralization",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which recessive genetic disorder results in progressive damage to the cells and a decrease in cognitive development?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Cystic fibrosis",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Sickle cell disease",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Albinism",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Tay-Sachs disease",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "What is the ambivalent attachment style of an infant?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The child becomes distressed when their caregiver leaves but resists soothing by their caregiver on return.",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "The child shows inconsistent coping methods based on their caregivers actions.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The child ignores their caregiver and shows little emotion when their caregiver leaves or returns.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The child feels upset when their caregiver leaves and happy when their caregiver returns.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "What are the two responses that infants show at birth in social situations?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Anger and doubt",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Doubt and attraction",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Withdrawal and anger",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Attraction and withdrawal",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which stage of Erikson's theory of psychosocial development occurs in early childhood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Industry versus inferiority",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Initiative versus guilt",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Autonomy versus shame and doubt",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Trust versus mistrust",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "What is an appropriate way to support the mental health of children experiencing gender dysphoria?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Increase the level of socialization with children of the same sex",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Allow them to socially transition to the gender they identify as",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Teach them to conform to socially constructed gender norms",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Require them to dress in alignment with their biological sex",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which theory suggests that many gender stereotypes are so strong because gender is emphasized so much in culture?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Gender schema theory",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Developmental intergroup theory",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Cognitive social learning theory",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Social learning theory",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "What is a social and behavioral norm that is generally considered appropriate for a specific gender in a social setting or interpersonal relationship and can therefore vary by culture?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Gender roles",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Stereotypes",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Gender socialization",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Self-awareness",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Why is gender regarded as a social construct?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "It is based on biological characteristics.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "It is dependent on parenting styles.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "It is created by cultural and societal norms.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "It is dependent on sexual orientation.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which parenting style results in children who may fear rather than respect their parents and may direct their frustrations toward safer targets, such as bullies toward peers?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Uninvolved",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Authoritarian",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Permissive",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Authoritative",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which is true base on recent research on childhood obesity in the United States?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "10% of overweight boys between 8 and 15 years old see their weight as normal.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "25% of parents of overweight children think their child is normal weight.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "18.4% of six- to eleven-year-old children were classified as obese",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "5.2% of two- to five-year-old children were classified as obese.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "A 2015-16 study concluded that almost 1/5 of children from six to eleven were classified as obese."
+    },
+    {
+      "question": "What percentage of parents of obese children perceive their child’s weight as normal?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "50%",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "20%",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "75%",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "30%",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "In a 2010 survey, 50% of parents of obese children said their child had a normal weight."
+    },
+    {
+      "question": "What is distalproximal development during puberty?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The development of gender role differences",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Visible physical changes not directly linked to reproduction but that signal sexual maturity",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A physical growth spurt that proceeds from the extremities toward the torso",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Changes in the reproductive organs",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "When puberty occurs in adolescents, they experience a period of rapid growth and sexual maturation that proceeds from the extremities toward the torso."
+    },
+    {
+      "question": "How do height and weight change for boys and girls as they enter adolescence?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "During childhood, girls are on average taller and heavier than boys. After that, the average boy becomes both taller and heavier than girls.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "During childhood, boys and girls are similar in height and weight. Then, from approximately ages 10 to 14, the average girl is taller but not heavier than the average boy.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "During childhood, boys and girls are similar in height and weight. Then, from approximately ages 10 to 14, the average girl becomes both taller and heavier than boys. After the age of 14, the average girl continues to be both taller and heavier than boys.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "During childhood, boys are on average taller and heavier than girls. Then from approximately ages 10 to 14, the average boy is taller but not heavier than the average girl.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "After the age of 14, the average boy becomes both taller and heavier."
+    },
+    {
+      "question": "What is a primary sexual characteristic in males during adolescence?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Pubic hair growth",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Spermarche",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Broad shoulders",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Low-pitched voice",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The first ejaculation of semen, spermarche, is a primary sexual characteristic in males."
+    },
+    {
+      "question": "What is a secondary sexual characteristic in males during adolescence?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Growth of testes",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Spermarche",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Growth of penis",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Low-pitched voice",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Development of a low-pitched voice is a secondary sexual characteristic of puberty in males."
+    },
+    {
+      "question": "Which gland triggers the process of puberty by secreting a surge of hormonal agents in to the bloodstream?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The pituitary gland",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "The thyroid gland",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The pineal gland",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "The process of puberty is triggered by the pituitary gland, which secretes a surge of hormonal agents into the bloodstream and initiates a chain reaction."
+    },
+    {
+      "question": "Which aspect of puberty is predictable?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The pace of puberty",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "The sequence of physical changes during puberty",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "The onset of puberty",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The degree of psychological changes during puberty",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The sequence of physical changes during puberty follows a predictable pattern."
+    },
+    {
+      "question": "What is newly developed in a child during middle childhood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Inductive reasoning",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Deductive reasoning",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "The ability to switch between tasks",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The ability to classify objects",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The ability to develop hypotheses based on what might logically occur does not occur until middle childhood."
+    },
+    {
+      "question": "Which stage of Piaget's cognitive development is experienced during middle childhood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Preoperational",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Concrete operational",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Sensorimotor",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Formal operational",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "At this stage (between 7 and 11 years), the child can make sense of the physical world around them, think logically, and switch between different tasks using logic."
+    },
+    {
+      "question": "Which effect will puberty have on the brain during adolescence?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The brain size will remain the same.",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "The brain will increase in size.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The gray matter of the brain will increase.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The white matter of the brain will decrease.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "The size of the brain does not change during this stage. However, it does become more specialized and interconnected."
+    },
+    {
+      "question": "How does the physical development of the brain during puberty affect cognitive abilities?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "It improves the use of memory and experience in making decisions.",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "It improves impulse control.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "It makes it easier to learn a second language.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "During adolescence the hippocampus becomes more strongly connected to the frontal lobes, allowing for greater integration of memory and experiences into decision-making."
+    },
+    {
+      "question": "Which type of thinking is considered rational?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Analytic",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Idealistic",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Introspective",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Intuitive",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Analytic thinking is deliberate, conscious, and rational."
+    },
+    {
+      "question": "What describes pseudostupidity in adolescents?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "When an adolescent tries to pose as someone else",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "When an adolescent takes an overcomplicated approach to a simple task",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "When an adolescent insists on high standards of behavior",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "When an adolescent thinks about their thoughts and feelings",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Since adolescents are newly capable of formal operational thought, they may struggle to see alternatives to accomplishing a task."
+    },
+    {
+      "question": "Why does Erikson refer to children in middle and late childhood as industrious?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "They become more responsible and start reasoning inductively.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "They start to develop secondary sexual characteristics.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "They are busy planning, playing, and being social.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "They start to grow physically.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Children in middle and late childhood are constantly doing, planning, playing, making new friends, and achieving continuously."
+    },
+    {
+      "question": "What is the moral reasoning based on in Kohlberg's preconventional morality?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Justice and ethical principles",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Punishment and rewards",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Laws and impact on others",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Stage 1: Focus is on self-interest, and punishment is avoided. The man should not steal the drug, as he may get caught and go to jail. Stage 2: Rewards are sought. A person at this level will argue that the man should steal the drug because he does not want to lose his wife, who takes care of him."
+    },
+    {
+      "question": "Which eating disorder involves fear of obesity despite being underweight?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Anorexia nervosa",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Binge-eating disorder",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Muscle dysmorphia",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Bulimia nervosa",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Anorexia nervosa is a disorder in which a person believes they are obese when they are usually severely underweight."
+    },
+    {
+      "question": "Which disorder is concerned with body image distortion?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Binge-eating disorder",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Muscle dysmorphia",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Bipolar disorder",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Insulin resistance",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Muscle dysmorphia is an extreme desire to increase one's muscularity."
+    },
+    {
+      "question": "What is meant by identity foreclosure?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A child who has committed to an identity after exploration",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A child who is actively exploring identities but has not committed to one",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A child who has committed to an identity without exploration of other options",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "A child who has never explored identity options nor made a commitment to one",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Identity foreclosure describes when a child has made a commitment to an identity without having explored the options."
+    },
+    {
+      "question": "What is the primary psychosocial task of adolescence according to Erikson?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Autonomy",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Inductive reasoning",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Confronting an eating disorder",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Developing an identity",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Erikson believed that developing an identity is a primary task in psychosocial development."
+    },
+    {
+      "question": "What is the difference between a clique and a crowd?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A clique describes a group that shares a common problem while a crowd is a group that interacts frequently.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A clique describes a group that interacts frequently, and a crowd is a group that does not interact frequently but has a shared reputation.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "A clique describes a group that does not interact frequently, and a crowd is a group that interacts frequently.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "A clique describes a group that interacts frequently, and a crowd is a group that shares a similar problem.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The main difference between cliques and crowds is that cliques interact frequently while crowds do not."
+    },
+    {
+      "question": "Which developmental stage includes the first emergence of romantic relationships?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Early adulthood",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Adolescence",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Childhood",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Late adulthood",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Adolescence is typically the first stage in which romantic relationships emerge. It includes partner selection, search for companionship, and intimacy. Most late adolescents have had at least one romantic relationship."
+    },
+    {
+      "question": "Which stage of friendship describes a friend as the one person someone can confide in?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Autonomous interdependence",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Intimate and mutual sharing",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Momentary physical interaction",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "One-way assistance",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Intimate and mutual sharing is the stage in which a friend is the one person that someone can tell things to that they would tell no one else."
+    },
+    {
+      "question": "Which category of children is an easy target for bullies?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Rejected-withdrawn",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Popular-prosocial",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Rejected-aggressive",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Popular-antisocial",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Rejected-withdrawn children are shy and excluded. They are an easy target for bullies because they do not retaliate when attacked."
+    },
+    {
+      "question": "What is the regular sequence of accelerated growth during adolescence?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The first areas that grow are the extremities (head, hands, and feet), followed by the arms and legs, and later the torso and shoulders.",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "The first areas that grow are the torso and shoulders, followed by the extremities (head, hands, and feet), and later the arms and legs.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The first areas that grow are the arms and legs, followed by the extremities (head, hands, and feet), and later the torso and shoulders.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The first areas that grow are the extremities (head, hands, and feet), followed by the torso and shoulders, and later the arms and legs.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which term describes a lack of recognition from parents that children are overweight or obese?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Body mass index (BMI)",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Anosmia",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Oblivobesity",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Hyposmia",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which secondary sexual characteristic is associated with girls?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "The broadening of hips",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "The occurrence of menarche",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The broadening of shoulders",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "The development of a low-pitched voice",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which dramatic change in an adolescent brain causes the thinning of gray matter, thereby making it more efficient?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Thickening of the corpus callosum",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Full development of the prefrontal cortex",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Formation of myelin coating",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Synaptic pruning in the cortex",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which consequence of formal operational thought is exhibited when an adolescent approaches problems at a level that is too complex, and the adolescent fails because the tasks are too simple?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Pseudostupidity",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Introspection",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Hypocrisy",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Idealism",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which characteristics describe analytic thought during adolescence?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Deliberate, conscious, and fast",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Deliberate, conscious, and rational",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Automatic, unconscious, and fast",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Automatic, unconscious, and rational",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which identity status is observed in an adolescent who is committed to an identity without having explored other options?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Identity achievement",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Identity moratorium",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Identity foreclosure",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Identity diffusion",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "What decreases the risk of teenage pregnancy?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Parent and teenager closeness",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Early puberty",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Sexually active older sibling",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Low socioeconomic status",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which stage of Lawrence Kohlberg’s stages of moral development in middle childhood focuses on concepts of punishment?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Stage five: postconventional moral development",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Stage six: postconventional moral development",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Stage two: preconventional moral development",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Stage one: preconventional moral development",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "What is observed in adolescents who have positive attachment to their parents?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "They have more positive peer relationships.",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "They are more likely to engage in criminal activities.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "They are more prone to drug abuse.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "They have more emotional problems.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which term describes a teenager’s greater desire for independence from parents?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Homophily",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Autonomy",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Deviant peer contagion",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Negative identity",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which stage of psychosocial development did Erikson attribute to adolescents?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Intimacy versus isolation",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Industry versus inferiority",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Identity versus role confusion",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Intimacy versus isolation",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which age range represents early adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Ages 65 years and older",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Ages 25–45 years",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Ages 40–65 years",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Ages 10–18 years",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "It is during this time of adulthood that complete physical maturation is reached, and physical abilities such as sensory abilities, reaction time, and cardiac functioning are at their peak."
+    },
+    {
+      "question": "Which BMI value indicates that an early adult is considered to be extremely obese?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "42",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "29",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "25",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "35",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "A BMI value greater than or equal to 40 indicates extreme obesity and an increased risk for heart diseases and other medical complications."
+    },
+    {
+      "question": "Which condition describes the inability of the eye to focus on closer objects due to the loss of elasticity of the lens?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Floaters",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Dry eye syndrome",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Scotopic sensitivity",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Presbyopia",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Aging causes stiffening and thickening of the lens of the eye so that it becomes difficult for the lens to change shape and focus on nearby objects."
+    },
+    {
+      "question": "Which condition is a typical physical change during middle adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Age spots",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Sarcopenia",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Skin tags",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Bruising",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Sarcopenia is a condition of loss of muscle mass and strength that occurs with aging."
+    },
+    {
+      "question": "Which condition describes the loss of smell that typically occurs in late adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Phantosmia",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Hyposmia",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Dysosmia",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Presbyosmia",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Presbyosmia is a condition in which an aging person loses their sense of smell."
+    },
+    {
+      "question": "Which condition is caused by a deficiency of the protein alpha-1-antitrypsin in late adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Kyphosis",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Chronic obstructive pulmonary disease (COPD)",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Osteoporosis",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Atherosclerosis",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Alpha-1-antitrypsin is a protein produced by the liver that protects the lungs from the inflammatory damage caused by certain enzymes."
+    },
+    {
+      "question": "Which thought process is demonstrated in early adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Concrete operations",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Dichotomies",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Preconventional morality",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Dialectical",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Dialectical thinking is the ability to bring together salient aspects of two opposing viewpoints or positions."
+    },
+    {
+      "question": "Which stage of career development is described by the inclusion of abilities and limitations when narrowing career choices?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Stage 3",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Stage 1",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Stage 4",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Stage 2",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "During stage two, teens and emerging adults start accounting for their limitations and capabilities, in addition to the attractiveness of a career, when deciding on career choices."
+    },
+    {
+      "question": "What does research indicate about cognitive development during middle adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Perceptual speed increases",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Inductive reasoning decreases",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Spatial skills decrease",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Crystalized intelligence increases",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Crystalized intelligence increases with age until one’s 70s."
+    },
+    {
+      "question": "Which aspect of job satisfaction is experienced by middle adults?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Less involvement in workplace decisions",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Women are promoted more than men",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Feelings of energy depletion or exhaustion",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Workers earn higher wages",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Higher wages have been found in research studies to contribute to job satisfaction in middle adults."
+    },
+    {
+      "question": "Which change in attention is typically seen in late adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "More able to selectively focus on information while ignoring distractors",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Less difficulty shifting attention between objects",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Less able to selectively focus on information while ignoring distractors",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Less difficulty shifting attention between locations",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Studies have found that older adults typically have greater difficulty shifting their attention between objects or locations."
+    },
+    {
+      "question": "Which characteristic of Alzheimer disease is experienced by late adults?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Increase in physical coordination",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Increase in subtle personality changes and memory loss",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Increase in the ability to respond to an environment",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Increase in problem-solving skills",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Alzheimer disease has a gradual onset, with subtle personality changes and memory loss that differs from normal age-related memory problems occurring first."
+    },
+    {
+      "question": "Which characteristic of emerging adulthood is described as uncertainty in jobs and relationships and frequent changes in residences?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Age of possibilities",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Age of self-focus",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Age of feeling in-between",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Age of instability",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "According to Arnett, the age of instability in early adulthood is characterized by uncertainty and instability as seen in changes in jobs, relationships, and residences."
+    },
+    {
+      "question": "Which sexual orientation experienced by early adults is described as being primarily attracted to individuals of one’s own sex?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Bisexuality",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Homosexuality",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Asexuality",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Heterosexuality",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Homosexuality, being gay or lesbian, is primarily attraction to individuals of one's own sex."
+    },
+    {
+      "question": "Which relationship is described by a midlife adult who keeps their family connected?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Competent loners",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Empty nester",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Boomerang kids",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Kinkeeper",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Kinkeepers are the people who keep their family connected and who promote solidarity and continuity in a family."
+    },
+    {
+      "question": "Which situation contributes to the singlehood middle adult lifestyle?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Children leaving home",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Divorce",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Gatekeeping",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Needing sexual fulfillment",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Middle adults who are single may be living with a partner and/or be single through divorce or widowhood."
+    },
+    {
+      "question": "Which phase of retirement is described when older adults experience an emotional letdown?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Immediate pre-retirement phase",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Honeymoon phase",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Reorientation phase",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Disenchantment phase",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "In the disenchantment phase of retirement, older adults have passed through the excitement of the honeymoon phase and begin to feel disappointed or saddened that they are in retirement."
+    },
+    {
+      "question": "How does the general trend in the United States of an increasingly aged population affect caregivers of older adults?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Caregivers of older adults will decrease as the number of elder adults increases.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Caregivers of older adults will largely be populated by later adolescents.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Caregivers of older adults will no longer need to use inpatient respite care to assist in their caregiver roles.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Caregivers of older adults will face increased financial and emotional strain.",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "As older adults continue to live longer, an increase in the number of caregivers is needed. Caregivers often face financial and emotional strain from their care duties, so this will also increase."
+    },
+    {
+      "question": "What appears to be the major factor that keeps temperament stable into adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Culture",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Environment",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Genes",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Because temperament is genetically driven, genes appear to be the major reason temperament remains stable into adulthood."
+    },
+    {
+      "question": "Which characteristics describe the conscientiousness personality dimension seen in early adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A tendency to appreciate art, emotion, adventure, unusual ideas, imagination, curiosity, and a variety of experiences",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A tendency to experience positive emotions and to seek out stimulation and the company of others",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A tendency to show self-discipline, act dutifully, and aim for achievement",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "A tendency to be compassionate and cooperative rather than suspicious and antagonistic toward others, reflecting individual differences in general concern for social harmony",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Individuals who are conscientious have a preference for planned rather than spontaneous behavior."
+    },
+    {
+      "question": "Which aspect of Sternberg’s theory of love experienced during early adulthood is described by an intense physical attraction that partners feel toward one another?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Liking",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Intimacy",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Commitment",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Passion",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Passion refers to the intense physical attraction partners feel toward one another."
+    },
+    {
+      "question": "Which attachment style in young adulthood is described as being able to get close to others and not worry about being abandoned?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Avoidant",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Secure",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Neurotic",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Ambivalent",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Secure young adults find it relatively easy to get close to others, are comfortable depending on others, and are comfortable having others depend on them. They do not often worry about being abandoned or someone getting too close to them."
+    },
+    {
+      "question": "Which form of intimate partner abuse in early adulthood is described as one partner consistently using fear and violence to dominate the other?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Neglect and abandonment",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Intimate terrorism",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Financial abuse and exploitation",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Situational couple violence",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "In intimate terrorism, one partner consistently uses fear and violence to dominate the other."
+    },
+    {
+      "question": "How does a child’s temperament influence parenting?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Children who are fussy elicit more positive reactions from their parents.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Children with easy temperaments may result in parents feeling more effective.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Children who are fussy may result in parents feeling more effective in parenting.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Children with easy temperaments may result in parents feeling less effective.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "A child with an easy temperament may enable parents to feel more effective because the parents are easily able to soothe the child and elicit smiling and cooing."
+    },
+    {
+      "question": "Which stage of general adaptation syndrome occurs last?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Hostility",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Resistance",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Exhaustion",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Alarm",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is the final stage of the general adaptation syndrome to stressors, when a person fails to cope with the stress adequately and depletes their resources."
+    },
+    {
+      "question": "Which stress management strategy used by older adults includes a technique where a person is shown bodily information that is not normally available to them (e.g., heart rate) and then taught strategies to alter this signal?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Problem-focused coping",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Social integration",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Biofeedback",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Emotion-focused coping",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Biofeedback can help reduce physiological arousal from stress."
+    },
+    {
+      "question": "Which description characterizes Erikson's psychosocial stage of the integrity vs. despair experience in late life?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "An interest in guiding the development of the next generation, often by becoming a parent, is gained.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "A well-defined and positive sense of self in relationship to others is achieved.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "A retrospective accounting of one’s life to date occurs.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Independence is gained by exploring, manipulating, and taking action.",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Integrity vs. despair is described as a retrospective accounting of one’s life to date: how much one embraces life as having been well lived, as opposed to regretting missed opportunities."
+    },
+    {
+      "question": "Which characteristic of successful aging involves making adjustments, as needed, in order to continue living as independently and actively as possible?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Active engagement in social and productive activities",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Relative avoidance of disease, disability, and risk factors, like high blood pressure, smoking, or obesity",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Selective optimization with compensation",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Maintenance of high physical and cognitive functioning",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "When older adults lose functioning or a task becomes too difficult, they may compensate by choosing another way to accomplish goals."
+    },
+    {
+      "question": "How is death anxiety experienced by older adults?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Older adults do not comprehend death but do react to the separation caused by death.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Older adults do not see death as permanent.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Older adults may think people die because of some wrongdoing on the part of the deceased.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Older adults have lower fears of death than other adults.",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "Older adults have fewer caregiving responsibilities and are not worried about leaving family members on their own. They also have had more time to complete activities they had planned in their lives, and they realize that the future will not provide as many opportunities for them."
+    },
+    {
+      "question": "Which typical grief reaction is normally experienced by older adults?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Difficulty concentrating",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Feelings of disbelief",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Distressful memories",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Preoccupation with a dead loved one",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "Typical grief reactions include numbness, anger, guilt, anxiety, sadness, and despair. A person who is grieving may also experience difficulty concentrating, sleep and eating problems, loss of interest in pleasurable activities, physical problems, and illness."
+    },
+    {
+      "question": "Which cause of death falls under unintentional injury?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Cancer",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Homicide",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Suicide",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Accidents",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which physical changes are typical of early adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Physical maturation is complete, although height and weight may decrease slightly.",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "The peak of muscle strength is reached, but cardiac functioning is still developing.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "The peak of cardiac functioning is reached, but muscle strength is still developing.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Physical maturation is complete, although height and weight may increase slightly.",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which visual change is associated with older adults?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Cataracts",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Presbycusis",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Tinnitus",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Anosmia",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "What is a characteristic of brain cognitive functioning in midlife?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "A greater focus on negative information than younger adults",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "An increase in numerical computation",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "An increase in perceptual speed",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "A greater ability to manage emotions than younger adults",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which theory suggests that the brain adapts to neural atrophy (dying of brain cells) by building alternative connections?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Scaffolding theory of aging and cognition",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Inhibition theory",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Processing speed theory",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Activity theory",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which type of thought does one become capable of in early adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Concrete operational",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Postformal",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Formal operational",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Dialectical",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "What is the retirement stage described by thinking about what one wants to do in retirement?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Immediate preretirement phase",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Honeymoon phase",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Remote preretirement phase",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Reorientation phase",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which of Erikson's stages of psychosocial development is attributed to middle adulthood?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Intimacy versus isolation",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Generativity versus stagnation",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "text": "Industry versus inferiority",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Integrity versus despair",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is correct."
+    },
+    {
+      "question": "Which of Arnett's five characteristics of emerging adulthood is described by optimism that young adults will get to where they want to be in life?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Age of identity exploration",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Age of self-focus",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Age of possibilities",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "text": "Age of feeling in-between",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which type of love involves a couple that feels like they are best friends, as well as lovers, that is committed to staying together?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Fatuous love",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Companionate love",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Romantic love",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Consummate love",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which of Erikson's stages of psychosocial development is described by a retrospective accounting of one’s life up to the present moment?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Integrity versus despair",
+          "correct": true
+        },
+        {
+          "id": 1,
+          "text": "Intimacy versus isolation",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Identity versus role confusion",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Generativity versus stagnation",
+          "correct": false
+        }
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is correct"
+    },
+    {
+      "question": "Which of the Big Five personality traits of early adulthood is characterized by a tendency to experience positive emotions and to seek out stimulation and the company of others?",
+      "type": "multiple_choice",
+      "choices": [
+        {
+          "id": 0,
+          "text": "Neuroticism",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "text": "Conscientiousness",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "text": "Agreeableness",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "text": "Extraversion",
+          "correct": true
+        }
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "This is correct"
+    }
+  ]
+}
