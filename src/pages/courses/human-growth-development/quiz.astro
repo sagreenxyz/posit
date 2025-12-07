@@ -337,6 +337,21 @@ import questionBank from './_question_bank.json';
 				`Score: ${score}/${questions.length}`;
 		}
 
+		// Highlight correct/incorrect choices FIRST
+		document.querySelectorAll('.choice').forEach((choiceDiv) => {
+			const choiceId = parseInt(choiceDiv.dataset.choiceId);
+			const input = choiceDiv.querySelector('input');
+			input.disabled = true;
+			choiceDiv.classList.add('disabled');
+			choiceDiv.classList.remove('selected');
+
+			if (correctAnswers.includes(choiceId)) {
+				choiceDiv.classList.add('correct');
+			} else if (userAnswers.includes(choiceId)) {
+				choiceDiv.classList.add('incorrect');
+			}
+		});
+
 		// Show feedback
 		const feedbackContainer = document.getElementById('feedback-container');
 		feedbackContainer.style.display = 'block';
@@ -357,20 +372,6 @@ import questionBank from './_question_bank.json';
 		feedbackContainer.innerHTML = '';
 		feedbackContainer.appendChild(feedbackTitle);
 		feedbackContainer.appendChild(feedbackExplanation);
-
-		// Highlight correct/incorrect choices
-		document.querySelectorAll('.choice').forEach((choiceDiv) => {
-			const choiceId = parseInt(choiceDiv.dataset.choiceId);
-			const input = choiceDiv.querySelector('input');
-			input.disabled = true;
-			choiceDiv.classList.add('disabled');
-
-			if (correctAnswers.includes(choiceId)) {
-				choiceDiv.classList.add('correct');
-			} else if (userAnswers.includes(choiceId)) {
-				choiceDiv.classList.add('incorrect');
-			}
-		});
 
 		// Update buttons
 		document.getElementById('submit-answer').style.display = 'none';
