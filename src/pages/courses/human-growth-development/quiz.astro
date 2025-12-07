@@ -244,9 +244,6 @@ import questionBank from './_question_bank.json';
 	let selectedAnswers = [];
 	let questions = questionBank.questions;
 
-	// Shuffle questions for randomized quiz
-	questions = questions.sort(() => Math.random() - 0.5);
-
 	function loadQuestion() {
 		const question = questions[currentQuestionIndex];
 		selectedAnswers = [];
@@ -405,9 +402,6 @@ import questionBank from './_question_bank.json';
 		currentQuestionIndex = 0;
 		score = 0;
 		selectedAnswers = [];
-		
-		// Reshuffle questions
-		questions = questions.sort(() => Math.random() - 0.5);
 
 		document.getElementById('quiz-content').style.display = 'block';
 		document.getElementById('results-screen').style.display = 'none';
