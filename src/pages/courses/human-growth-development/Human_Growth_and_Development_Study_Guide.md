@@ -1,0 +1,945 @@
+---
+layout: ../../../layouts/Layout.astro
+title: Human Growth and Development Study Guide
+---
+
+# Course Outline
+ 
+## Section 1: Introduction (Prenatal to Early Childhood)
+- **Lesson 1: Genetic Influences during Prenatal Development**
+  - **Overview of Life Periods**:
+    - **Prenatal**: Conception to birth.
+    - **Infancy and Toddlerhood**: Birth to 2 years.
+    - **Early Childhood**: 2 to 6 years.
+    - **Middle and Late Childhood**: 6 years to puberty.
+    - **Adolescence**: Puberty to 18 years.
+    - **Emerging Adulthood**: 18 to 25 years.
+    - **Early Adulthood**: 25 to 40-45 years.
+    - **Middle Adulthood**: 40-45 to 65 years.
+    - **Late Adulthood**: 65 years onward.
+  - **Prenatal Development Stages**:
+    - **Germinal Period (Conception - 2 weeks)**:
+      - Begins with fertilization (sperm + egg = **zygote**).
+      - **Mitosis**: Rapid cell division forms a **blastocyst** (100 cells) after 5 days.
+      - **Implantation**: Blastocyst embeds in uterine wall. High failure rate (50-75%).
+    - **Embryonic Period (3rd - 8th week)**:
+      - Organism is an **embryo**. **Placenta** forms for nourishment.
+      - Growth follows **Cephalocaudal** (head-to-tail) and **Proximodistal** (midline-outward) patterns.
+      - Major organs form; most vulnerable period for **teratogens**.
+    - **Fetal Period (9th week - Birth)**:
+      - Organism is a **fetus**.
+      - **Early (9w-3m)**: Genitalia, hair, nails, teeth form.
+      - **Middle (4-6m)**: Senses develop, reflexes (sucking), sleep cycles. **Viability** reached ~24 weeks.
+      - **Late (7-9m)**: Lung development, weight gain, fat layer formation.
+  - **Risks and Complications**:
+    - **Maternal Age**:
+      - **Over 35**: Higher risk of fertility issues, miscarriage, genetic disorders (e.g., Down syndrome), and complications like high BP/diabetes.
+      - **Teenage**: Higher risk of premature birth, low birth weight, anemia, and high BP due to lack of care/lifestyle.
+    - **Health Conditions**:
+      - **Gestational Diabetes**: High blood sugar; risks include large baby, preeclampsia, premature birth.
+      - **Hypertension**: Gestational or chronic high blood pressure; can lead to preeclampsia.
+      - **Rh Disease**: Rh-negative mother/Rh-positive baby incompatibility; antibodies attack fetal blood cells.
+    - **Teratogens**: Environmental agents (drugs, alcohol, pollutants) causing birth defects.
+  - **Childbirth**:
+    - **Preparation**: Methods like **Lamaze** (breathing/relaxation).
+    - **Stages of Labor**:
+      1.  **First Stage**: Contractions, cervix dilation to 10cm (longest stage).
+      2.  **Second Stage**: Baby passes through birth canal; delivery.
+      3.  **Third Stage**: Delivery of placenta.
+    - **Delivery Methods**: Vaginal, **Cesarean Section** (surgical), Induced Labor.
+- **Lesson 2: Physical Growth and the Newborn**
+  - **Assessing the Newborn**:
+    - **APGAR Score**: Quick assessment at 1 and 5 minutes after birth.
+      - Measures: **A**ctivity (muscle tone), **P**ulse (heart rate), **G**rimace (reflex response), **A**ppearance (color), **R**espiration (breathing).
+      - Scoring: 0-2 per measure. Score < 5 indicates concern.
+    - **NBAS (Neonatal Behavioral Assessment Scale)**: Assesses motor development, muscle tone, and stress response. Used globally and for cross-cultural comparisons.
+  - **Postpartum Maternal Concerns**:
+    - **Baby Blues**: Common, temporary sadness (3-5 days post-birth), disappears within 10 days.
+    - **Postpartum Depression (PPD)**: Occurs in ~1/8 women within 4 weeks. Symptoms: sadness, sleeplessness, bonding difficulty. Risk factors: history of depression, young age, stress.
+    - **Postpartum Psychosis**: Rare (1 in 500-1000). Hallucinations/delusions (sometimes harming infant). Medical emergency.
+    - **Postpartum Anxiety**: Heightened alertness/worry due to oxytocin rise. Intrusive thoughts of harm to baby.
+  - **Overall Physical Growth**:
+    - **Weight**: Newborns (~7.5 lbs) lose 5% weight initially. Weight doubles by 4 months, triples by 1 year, quadruples by 2 years (20-40 lbs).
+    - **Length**: Newborns (~20 in). ~29.5 in at 1 year, ~34.4 in at 2 years.
+    - **Growth Rate**: Rapid in first 2 years, then slows until adolescence.
+  - **Body Proportions**:
+    - Head size relative to body length decreases with age:
+      - Fetal stage: 50% of length.
+      - Birth: 25% of length.
+      - Adulthood (25 yrs): 20% of length.
+- **Lesson 3: Physical Growth in Early Childhood**
+  - **Motor Development**:
+    - Follows **Cephalocaudal** (head-to-tail) and **Proximodistal** (midline-outward) paths.
+    - **Milestones**:
+      - Head holding (~6 weeks).
+      - Sitting alone (~7 months).
+      - Crawling, cruising, walking.
+    - **Fine Motor Skills**: Small muscle movements (fingers, toes, eyes).
+      - Reaching (4 months).
+      - **Palmar Grasp** (fingers/palm, no thumb).
+      - **Pincer Grasp** (forefinger/thumb, ~9 months).
+    - **Gross Motor Skills**: Large muscle groups (head, torso, arms, legs).
+      - Balancing, running, jumping.
+  - **Sensory Capacities**:
+    - **Vision**: Poor at birth (20/300). Reaches 20/200 by 3 months. Adult levels ~15 months.
+      - Preference for faces (especially mother's) and high-contrast patterns.
+      - **Binocular Vision** (depth perception) develops ~3 months.
+    - **Hearing**: Keen at birth. Preference for mother's voice and native language.
+    - **Touch/Pain**: Highly sensitive at birth.
+    - **Taste/Smell**: Innate preference for sweet flavors and mother's scent.
+    - **Intermodality**: Ability to perceive through multiple senses simultaneously (e.g., matching lip movements to speech).
+  - **Nutrition**:
+    - **Breast Milk**: Ideal diet. Contains **colostrum** (antibodies/nutrients).
+      - Benefits: Easier digestion, immunity boost, lower disease risk (obesity, diabetes, SIDS).
+      - Maternal Benefits: Uterine recovery, lower cancer risk (breast/ovarian).
+    - **Solid Foods**: Introduce ~4-6 months when infant can sit up and shows interest.
+      - Start with iron-fortified cereals, then veggies/fruits. Avoid choking hazards and honey (botulism risk).
+    - **Malnutrition**:
+      - **Infantile Marasmus**: Starvation due to lack of calories/protein (wasting).
+      - **Kwashiorkor**: Protein deficiency (often after weaning), causes abdominal swelling.
+      - Long-term effects: Cognitive delays, lower IQ, behavioral issues.
+- **Lesson 4: Genetic Influences on Cognitive Development**
+  - **Heredity and Genetics**:
+    - **Genes**: Basic units of inheritance composed of DNA sequences; control protein manufacture. Humans have ~20,500 genes.
+    - **Chromosomes**: Structures in the cell nucleus containing genes. Normal human cells have 46 chromosomes (23 pairs).
+    - **Cell Division**:
+      - **Mitosis**: Process where a cell nucleus copies chromosomes and splits into two identical cells (growth/repair).
+      - **Meiosis**: Process creating gametes (sperm/ova) with only 23 chromosomes (half genetic material).
+    - **Sex Determination**: The 23rd pair of chromosomes determines sex (XX = Female, XY = Male).
+  - **Genotypes and Phenotypes**:
+    - **Genotype**: The sum total of all genes a person inherits.
+    - **Phenotype**: The observable features that are actually expressed.
+    - **Alleles**:
+      - **Homozygous**: Inheriting the same version of a gene from both parents.
+      - **Heterozygous**: Inheriting different versions of a gene from each parent.
+    - **Expression Patterns**:
+      - **Dominant**: Expressed even when paired with a different version (e.g., facial dimples, dark hair).
+      - **Recessive**: Expressed only when paired with a similar recessive gene (e.g., red hair, straight hair).
+      - **Polygenic**: Characteristics resulting from the interaction of several genes.
+      - **Incomplete Dominance**: Dominant gene does not completely suppress recessive (e.g., Sickle Cell trait).
+  - **Twins**:
+    - **Monozygotic (Identical)**: One fertilized egg splits; offspring share 100% genotype.
+    - **Dizygotic (Fraternal)**: Two eggs fertilized by two sperm; share ~50% genetic material (like siblings).
+  - **Genetic Disorders**:
+    - **Recessive Disorders (Homozygous)**:
+      - **Sickle Cell Disease (SCD)**: Malformed red blood cells; oxygen deprivation.
+      - **Cystic Fibrosis (CF)**: Thick mucus in lungs/digestion.
+      - **Phenylketonuria (PKU)**: Metabolic disorder (phenylalanine); treated with diet.
+      - **Tay-Sachs**: Enzyme deficiency causing brain damage; fatal in childhood.
+      - **Albinism**: Lack of melanin pigment.
+    - **Autosomal Dominant Disorders (Heterozygous)**:
+      - **Huntington’s Disease**: Fatal nervous system degeneration; midlife onset.
+      - **Tourette Syndrome**: Motor and vocal tics.
+      - **Achondroplasia**: Disproportionate short stature.
+    - **Sex-Linked Disorders (X-Linked)**:
+      - Defective gene on X chromosome; males more vulnerable (XY) as they lack a backup X.
+      - **Fragile X Syndrome**: Intellectual disability; X chromosome abnormality.
+      - **Hemophilia**: Blood clotting disorder.
+      - **Duchenne Muscular Dystrophy**: Muscle weakening/wasting.
+  - **Chromosomal Abnormalities**:
+    - Inheriting too many or too few chromosomes; risk increases with maternal age.
+    - **Trisomy 21 (Down Syndrome)**: Three 21st chromosomes; intellectual disability, distinct physical features.
+    - **Sex-Linked Chromosomal Abnormalities**:
+      - **Turner Syndrome (XO)**: Female with missing X; short stature, infertility, cognitive effects.
+      - **Klinefelter Syndrome (XXY)**: Male with extra X; small testes, infertility, low testosterone.
+  - **Prenatal Brain Development**:
+    - **Timeline**: Begins 3rd week; primary parts (forebrain, midbrain, hindbrain) by week 8.
+    - **Neurogenesis**: Most neurons generated by mid-gestation.
+    - **Migration**: Neurons move to correct positions (mostly complete by 24 weeks).
+    - **Differentiation**: Growth of dendrites, axons, and synapses (continues for years).
+    - **Structure**: Gray matter (cell bodies) and White matter (myelinated axons).
+  - **Teratogens**:
+    - Environmental factors causing birth defects (diseases, pollutants, drugs).
+    - **Risk Factors**: Timing (critical periods), Amount, Number of teratogens, Genetics, Sex (males more susceptible).
+    - **Specific Teratogens**:
+      - **Alcohol**: Leading preventable cause of intellectual disabilities. **Fetal Alcohol Spectrum Disorders (FASD)** range from mild to severe (**Fetal Alcohol Syndrome**).
+      - **Tobacco**: Linked to low birth weight, SIDS, ectopic pregnancy, respiratory issues.
+      - **Drugs**: Prescription/OTC (consult doctor), Illicit (Neonatal Abstinence Syndrome).
+      - **Pollutants**: Lead, Pesticides, BPA, Radiation, Mercury.
+      - **Infections**: Toxoplasmosis (parasite), STDs (HIV, Syphilis), Rubella.
+- **Lesson 5: Cognitive Development and the Newborn**
+  - **Neural Development**:
+    - **Neurons**: Infants born with ~85 billion neurons.
+    - **Synaptogenesis (Blooming)**: Rapid formation of dendritic connections in first years.
+    - **Synaptic Pruning**: Reduction of unused connections to improve efficiency (~40% lost).
+    - **Myelination**: Fatty coating on axons speeds transmission; continues into adolescence.
+    - **Brain Growth**: 25% of adult size at birth, 55% by 3 months, 75% by 1 year.
+    - **Cortex Structure**:
+      - **Frontal Lobe**: Thinking, planning, memory, judgment (prefrontal cortex matures last).
+      - **Parietal Lobe**: Touch processing.
+      - **Occipital Lobe**: Vision.
+      - **Temporal Lobe**: Hearing, language.
+    - **Lateralization**: Localization of functions to one hemisphere (e.g., language in left).
+    - **Neuroplasticity**: Brain's ability to change/repair; highest in infancy.
+  - **Sleep**:
+    - Newborns sleep ~16.5 hours/day. 50% in REM (decreases to 25-30% in childhood).
+    - **SUID (Sudden Unexpected Infant Death)**:
+      - **SIDS (Sudden Infant Death Syndrome)**: Unexplained death of healthy infant (leading cause 1-12 months).
+      - **Accidental Suffocation**: Bedding, rolling over.
+      - **Risk Factors**: Stomach sleeping (Back to Sleep campaign), bed-sharing (especially with smoking/alcohol), soft bedding.
+  - **Reflexes**:
+    - Involuntary movements indicating nervous system health. Most disappear and are replaced by voluntary movements.
+    - **Types**: Sucking, Rooting (cheek touch), Grasp (palmar), Babinski (toes fan), Moro (startle), Tonic Neck (fencer pose), Stepping.
+  - **Motor Development**:
+    - **Principles**: **Cephalocaudal** (head-down) and **Proximodistal** (center-out).
+    - **Milestones**: Head up (6 weeks), Sitting alone (7 months), Crawling, Cruising, Walking.
+    - **Fine Motor**: **Palmar grasp** (4 months, no thumb) -> **Pincer grasp** (9 months, thumb/forefinger).
+    - **Gross Motor**: Large muscle movements (balancing, running).
+  - **Cognitive Development (Piaget)**:
+    - **Schema**: Framework for organizing information.
+    - **Assimilation**: Fitting new info into existing schema (e.g., calling a zebra a horse).
+    - **Accommodation**: Modifying schema for new info (e.g., creating a zebra schema).
+    - **Sensorimotor Stage (Birth - 2 years)**: Learning through senses/motor actions.
+      - **Substages**: Reflexes -> Primary Circular Reactions (body) -> Secondary Circular Reactions (objects) -> Coordination -> Tertiary Circular Reactions (experimentation) -> Representational Thought (symbols).
+    - **Object Permanence**: Understanding objects exist when unseen (typically ~8 months).
+    - **Stranger Anxiety**: Fear of unfamiliar people (linked to object permanence/schema).
+    - **Critique**: Research (Baillargeon) suggests infants understand object properties much earlier (3-4 months) than Piaget thought.
+  - **Memory**:
+    - **Infantile Amnesia**: Inability to recall early years (immature hippocampus, lack of language/self-concept).
+    - **Rovee-Collier Studies**: Mobile kicking experiment shows infants *can* remember (context-dependent).
+    - **Deferred Imitation**: Imitating actions after delay (6 months).
+- **Lesson 6: Cognitive Development in Early Childhood**
+  - **Language Development**:
+    - **Components**:
+      - **Phoneme**: Smallest unit of sound (e.g., "bit" has 3).
+      - **Morpheme**: Smallest unit of meaning (e.g., "re-", "-est").
+      - **Semantics**: Rules for meaning.
+      - **Syntax**: Rules for sentence construction.
+      - **Pragmatics**: Social side of language (turn-taking, tone).
+    - **Progression**:
+      - **Cooing** (2 months) -> **Babbling** (7 months) -> **Gesturing**.
+      - **Holophrasic Speech** (12-13 months): One-word expressions ("ju" for juice).
+      - **Telegraphic Speech**: Two-word sentences ("baby bye-bye").
+      - **Errors**: **Underextension** (too specific) and **Overextension** (too broad).
+    - **Infant-Directed Speech**: High-pitched, exaggerated intonation (helps attention/learning).
+  - **Brain Maturation**:
+    - **Weight**: 75% of adult weight by age 3, 95% by age 6.
+    - **Corpus Callosum**: Connects hemispheres; growth spurt (3-6 yrs) improves coordination.
+    - **Hemispheres**: Left (language) grows dramatically 3-6 yrs; Right (spatial) continues growing.
+  - **Motor Skills**:
+    - **Gross Motor**: Running, jumping, skipping.
+    - **Fine Motor**: Pouring, drawing, buttoning.
+    - **Milestones**:
+      - **Age 2**: Kick ball, run (wide stance), turn doorknob.
+      - **Age 3**: Pedal tricycle, balance on one foot, copy circle.
+      - **Age 4**: Cut with scissors, draw square, dress self.
+      - **Age 5**: Skip, jump rope.
+  - **Piaget's Preoperational Stage (2-7 years)**:
+    - **Symbolic Function Substage (2-4)**: Mental representation, pretend play.
+    - **Intuitive Thought Substage (4-7)**: "Why?" questions, intuitive reasoning.
+    - **Key Concepts**:
+      - **Pretend Play**: Solidifies schemata.
+      - **Egocentrism**: Inability to take others' perspective (Three Mountain Task).
+      - **Conservation Errors**: Failure to understand quantity remains same despite shape change (liquid in glasses). Due to **Centration** (focusing on one aspect).
+      - **Animism**: Attributing life to objects.
+  - **Vygotsky's Sociocultural Theory**:
+    - **Zone of Proximal Development (ZPD)**: Gap between what child can do alone and with help.
+    - **Scaffolding**: Temporary support to help child learn.
+    - **Private Speech**: Talking to self to solve problems (becomes inner speech).
+  - **Information Processing**:
+    - **Attention**:
+      - **Divided**: Multitasking (difficult for young children).
+      - **Selective**: Focusing while ignoring distractors (improves with age).
+      - **Sustained**: Staying on task (improves 3-7 yrs).
+    - **Memory**:
+      - **Sensory**: Brief storage (1-3 seconds).
+      - **Working**: Conscious processing; capacity increases (4 digits at age 5 vs 7 for adults).
+      - **Executive Function**: Self-regulation, inhibition, flexibility (prefrontal cortex).
+      - **Long-Term**: Declarative (Semantic/Episodic) vs. Non-declarative (Implicit).
+      - **Autobiographical**: Personal narrative; emerges with language and self-concept.
+- **Lesson 7: Psychosocial Development and the Newborn**
+  - **Behavioral Genetics**:
+    - **Genotype-Environment Correlations**:
+      - **Passive**: Inheriting genes and environment (e.g., athletic parents provide athletic environment).
+      - **Evocative**: Social environment reacts to inherited traits (e.g., shy child treated differently).
+      - **Active (Niche Picking)**: Seeking environments that fit genetic tendencies (e.g., musical child seeks music).
+    - **Epigenetics**: Environmental factors (nutrition, stress) modifying gene expression (DNA switches).
+    - **Human Genome Project**: Mapped human genome (completed 2003).
+  - **Temperament**:
+    - Innate characteristics (mood, activity, reactivity).
+    - **Types (Chess & Thomas)**:
+      - **Easy (40%)**: Adaptable, positive mood.
+      - **Difficult (10%)**: Negative reaction to new, fussy.
+      - **Slow-to-Warm-Up (15%)**: Low activity, slow adjustment.
+    - **Goodness-of-Fit**: Match between child's temperament and environment/parenting.
+    - **Bidirectional Parenting**: Child influences parent (e.g., fussy baby makes parent less patient) and vice versa.
+  - **Infant Emotions**:
+    - **At Birth**: Attraction (comfort) and Withdrawal (discomfort).
+    - **Social Smiling**: ~2 months.
+    - **Negative Emotions**: Anger/Sadness (6-8 months), Fear (Stranger Wariness/Separation Anxiety) (6-15 months).
+    - **Social Referencing**: Looking to caregiver to clarify situation (Visual Cliff study).
+    - **Emotional Self-Regulation**: Strategies to control emotional state (requires prefrontal cortex dev).
+    - **Self-Awareness**: Realization of separate self (Rouge Test, 15-24 months).
+  - **Attachment**:
+    - **Freud**: Oral pleasure (feeding).
+    - **Harlow**: **Contact Comfort** (Monkey study: preferred cloth mother over wire mother with food).
+    - **Bowlby**: Attachment Theory. **Secure Base** for exploration. Evolutionary function (survival).
+    - **Ainsworth**: **Strange Situation Technique** (measuring attachment via separation/reunion).
+      - Styles: Secure, Ambivalent (Resistant), Avoidant, Disorganized.
+  - **Erikson's Psychosocial Theory**:
+    - **Stage 1: Trust vs. Mistrust (0-1.5 yrs)**:
+      - Goal: Basic sense of trust in caregivers/world.
+      - Virtue: Hope.
+      - Dependent on consistent care.
+  - **Measuring Development**:
+    - **Bayley Scales (Bayley-III)**: Assesses cognition, language, social-emotional, motor, adaptive behavior (1-42 months).
+- **Lesson 8: Psychosocial Development during Toddlerhood**
+  - **Physical Needs**:
+    - **Sleep**: Toddlers (11-14 hrs), Preschool (10-13 hrs).
+    - **Nutrition**:
+      - **"Just Right" Phenomenon**: Desire for consistency/rituals (peaks in early childhood).
+      - **Malnutrition**: Unbalanced diets (high sugar/fat) common in developed nations.
+      - **Strategies**: Don't bribe, limit choices, avoid short-order cooking.
+  - **Cognitive Development (Constructivism)**:
+    - **Piaget**: Cognitive Constructivist (independent learning).
+    - **Vygotsky**: Social Constructivist (social interaction).
+    - **Theory-Theory**: Children naturally generate theories to explain the world.
+    - **Theory of Mind (ToM)**: Understanding others have different thoughts/beliefs.
+      - **False-Belief Task (Sally-Anne)**: Difficult before age 4.
+      - **Egocentrism**: Inability to see others' perspective.
+      - **Cultural Sequence**: Individualistic (Diverse Beliefs first) vs. Collectivistic (Knowledge Access first).
+  - **Erikson's Psychosocial Theory**:
+    - **Stage 2: Autonomy vs. Shame and Doubt (1-3 yrs)**:
+      - Goal: Independence (doing things themselves).
+      - Risk: Over-control/criticism leads to shame/doubt.
+  - **Language Development**:
+    - **Vocabulary Spurt**: Rapid increase (200 to 10,000+ words).
+    - **Fast Mapping**: Connecting new words to known concepts quickly.
+    - **Literal Meaning**: Difficulty with idioms/figures of speech.
+    - **Overregularization**: Applying grammar rules to exceptions (e.g., "goed").
+    - **Scaffolding**: Adult support in language learning (Vygotsky).
+  - **Autism Spectrum Disorder (ASD)**:
+    - **Characteristics**: Deficits in social interaction/communication, repetitive behaviors/interests.
+    - **Prevalence**: ~1 in 59; 4x more common in boys.
+    - **Causes**: Strong genetic link (twin studies); Environmental factors (prenatal infections).
+    - **Vaccines**: No scientific link to ASD.
+- **Lesson 9: Emotions and Psychosocial Development through Early Childhood**
+  - **Erikson's Psychosocial Theory**:
+    - **Stage 3: Initiative vs. Guilt (3-6 yrs)**:
+      - Goal: Sense of purpose; planning and undertaking activities (e.g., building a fort).
+      - Role of Caregivers: Praise efforts to foster initiative. Criticism/control leads to guilt.
+  - **Self-Concept & Self-Esteem**:
+    - **Self-Concept**: Description of self (external/internal).
+    - **Categorical Self**: Preschoolers focus on external traits (possessions, appearance, "I have red hair").
+    - **Self-Esteem**: Evaluative judgment. Generally high in early childhood due to lack of social comparison.
+  - **Gender Development**:
+    - **Definitions**:
+      - **Gender Identity**: Sense of being male/female.
+      - **Gender Roles**: Cultural expectations for behavior.
+    - **Socialization**: Begins at birth (blue vs. pink). Parents treat sons/daughters differently (chores, conversation topics).
+    - **Theories**:
+      - **Social Learning**: Learned through observation, modeling, and reinforcement.
+      - **Gender Schema**: Children actively construct internal categories/rules about gender.
+      - **Developmental Intergroup**: Cultural emphasis on gender leads to rigid stereotypes.
+    - **Transgender & Intersex**:
+      - **Transgender**: Identifying with gender opposite to natal sex (~0.3%).
+      - **Gender Dysphoria**: Distress arising from the mismatch.
+      - **Intersex**: Biological ambiguity (chromosomes/hormones/anatomy) (e.g., Turner Syndrome).
+- **Lesson 10: Emotions and Behavior through Early Childhood**
+  - **Play**:
+    - **Theories**: Freud (emotional release), Vygotsky/Piaget (intellectual development).
+    - **Parten's Classification (6 Types)**:
+      - **Non-Social**: Unoccupied, Solitary, Onlooker.
+      - **Social**: Parallel (side-by-side, no interaction), Associative (interaction, no common goal), Cooperative (common goal).
+    - **Imaginary Companions**: Common (6-65%); often first-borns/only children; not a sign of poor social skills.
+  - **Child Care**:
+    - **Maternal Employment**: Majority of mothers work; time spent with children has actually increased since 1965.
+    - **NICHD Study**: Parenting/family characteristics are stronger predictors of development than child care.
+    - **Quality**: High quality (low ratio, trained staff) -> better cognitive/social outcomes. Low quality -> behavioral problems.
+  - **Child Abuse & Neglect**:
+    - **Types**: Neglect, Physical, Psychological, Sexual.
+    - **Statistics**: ~4.1 million referrals (2017). Professionals make most reports.
+    - **Sexual Abuse**: 1 in 4 girls, 1 in 10 boys. 91% by someone known.
+    - **Impact**: Toxic stress (cortisol) damages hippocampus (memory) and immunity.
+  - **Adverse Childhood Experiences (ACEs)**:
+    - **Definition**: Traumatic events before age 18 (abuse, neglect, household dysfunction).
+    - **Impact**: Cumulative risk for chronic health issues, risky behaviors, early death (Felitti et al. study).
+    - **Toxic Stress**: Disrupts brain development; separation from parents (e.g., at border) is extremely detrimental.
+- **Lesson 11: Cultural Influences and the Newborn**
+  - **Culture & Language**:
+    - **First Words**: English (nouns/objects) vs. Chinese (verbs/relationships).
+    - **Cultural Emphasis**: US (object qualities) vs. China (relationships).
+  - **Parenting Styles (Baumrind)**:
+    - **Dimensions**: Responsiveness (Warmth) and Demandingness (Control).
+    - **Styles**:
+      - **Authoritative**: High demand/response. Democratic, flexible. Best outcomes in US.
+      - **Authoritarian**: High demand/low response. Strict, obedience-oriented.
+      - **Permissive**: Low demand/high response. Nurturing, few rules. Friend role.
+      - **Uninvolved**: Low demand/response. Detached. Worst outcomes.
+    - **Cultural Context**: Individualistic (values independence -> Authoritative) vs. Collectivistic (values obedience -> Authoritarian).
+    - **Class Differences**: Working class (obedience) vs. Middle class (initiative).
+  - **Emotions**:
+    - **Primary**: Basic (happiness, anger, fear).
+    - **Secondary**: Self-conscious (pride, shame, guilt). Require self-concept.
+  - **Attachment Styles**:
+    - **Secure (65%)**: Explores, upset when left, happy when returns.
+    - **Ambivalent (10-15%)**: Clings, distressed, angry when returns.
+    - **Avoidant (20%)**: Avoids caregiver, indifferent.
+    - **Disorganized (5-10%)**: Inconsistent coping (freeze).
+    - **Cultural Variation**: Germany (higher avoidant); Japan (higher ambivalent). Secure is universal norm.
+- **Lesson 12: Cultural Influences in Early Childhood**
+  - **Sex, Gender, and Sexuality**:
+    - **Definitions**: Sex (biological), Gender (social construct), Sexuality (attraction).
+    - **Socialization**: Learning roles via family/media. Stereotypes (male=strength, female=nurturing).
+    - **Sexism**: Prejudice/discrimination. Enforced by punishment for non-conformity.
+  - **Emotional Development**:
+    - **Self-Regulation**: Monitoring/modifying emotions. Shifts from external to internal control.
+    - **Empathy**: Identifying with others' feelings. Leads to prosocial/altruistic behavior.
+    - **Intersubjectivity**: Shared psychological bond (caregiver-infant sync).
+  - **Cultural Context**:
+    - **Milestones**: Biological are universal; Social vary by culture.
+    - **Parenting**: Effectiveness depends on cultural norms (e.g., Authoritarian success in Asian American families).
+
+## Section 2: Introduction (Middle Childhood to Adolescence)
+- **Lesson 1: Physical Growth in Middle Childhood**
+  - **Physical Growth**:
+    - **Rate**: Slow/steady (5-7 lbs, 2-3 inches per year).
+    - **Growth Spurt**: Girls (age 9) vs. Boys (age 11).
+    - **Motor Skills**: Boys (gross motor) vs. Girls (fine motor).
+  - **Brain Development**:
+    - **Spurts**: 6-8 yrs (fine motor); 10-12 yrs (frontal lobes/logic).
+    - **Myelination**: Increases processing speed/reaction time. Hippocampus myelination aids memory.
+  - **Child Obesity**:
+    - **Definition**: BMI ≥ 95th percentile (Obese).
+    - **Causes**: Diet (sugar/fat), lack of activity.
+    - **Impact**:
+      - **Physical**: Diabetes, high BP, orthopedic issues.
+      - **Cognitive**: Impaired executive function/memory (hippocampus damage).
+      - **Psychosocial**: Bullying, depression.
+    - **"Oblivobesity"**: Lack of recognition by parents/children.
+    - **Treatment**: Family-based behavioral interventions, aerobic exercise.
+- **Lesson 2: Physical Development in Adolescence (Girls)**
+  - **Puberty**:
+    - **Timing**: Starts ~age 10 (2 years before boys). Lasts 3-4 years.
+    - **Growth Spurt**: Distalproximal (hands -> arms -> torso). Adds 10-11 inches, 50-75 lbs.
+    - **Ethnic Variations**: African > European > Asian (height).
+  - **Sexual Maturation**:
+    - **Primary Characteristics**:
+      - **Menarche**: First period. Triggered by body fat/stress.
+      - **Organs**: Ovaries (release eggs), Uterus, Vagina, Vulva.
+    - **Secondary Characteristics**: Breast development (~age 10), hips broaden, pubic hair.
+  - **Issues**: Body image (thinness ideal), obesity.
+- **Lesson 3: Physical Growth in Adolescence (Boys)**
+  - **Sexual Development**:
+    - **Primary Characteristics**:
+      - **Organs**: Testes (sperm/hormones), Penis, Scrotum.
+      - **Spermarche**: First ejaculation (age 11-15).
+      - **Sperm Production**: Constant daily production.
+    - **Secondary Characteristics**: Broader shoulders, lower voice, facial/body hair.
+  - **Issues**:
+    - **Acne**: 85% of teens; more common in boys (testosterone).
+    - **Maturation Timing**: Early/rapid maturation linked to depression, substance use, and poor peer relations.
+    - **Gender Role Intensification**: Increased pressure to conform to stereotypes (e.g., boys -> sports, girls -> suppress math skills).
+- **Lesson 4: Physical Growth in Later Adolescence**
+  - **Puberty Overview**:
+    - **Timing**: Females (10-17); Males (11-17).
+    - **Hormones**: Adrenarche (adrenals), Gonadarche (sex glands), Pituitary trigger.
+  - **Physical Changes**:
+    - **Growth Sequence**: Extremities -> Limbs -> Torso.
+    - **Body Composition**: Males (muscle gain); Females (fat gain).
+    - **Organs**: Heart/lungs grow (increased endurance).
+  - **Psychosocial Impact**:
+    - **Early Boys**: Popular/athletic but risk of substance abuse.
+    - **Early Girls**: Risk of harassment, anxiety, eating disorders.
+    - **Late Boys**: Risk of bullying, depression.
+- **Lesson 5: Cognitive Development in Middle Childhood**
+  - **Piaget's Concrete Operational Stage** (Ages 7-11):
+    - **Characteristics**: Logic in concrete ways, tangible/direct experience.
+    - **Key Concepts**:
+      - **Inductive Reasoning**: Specific premises to general conclusion.
+      - **Classification**: Hierarchies (classes and subclasses).
+      - **Identity**: Qualities remain unchanged despite alteration.
+      - **Reversibility**: Things can return to original state (e.g., frozen water).
+      - **Conservation**: Changing one quality compensates for another (e.g., tall vs. wide glass).
+      - **Decentration**: Focus on multiple dimensions.
+      - **Seriation**: Arranging items along a quantitative dimension (e.g., length).
+  - **Information Processing**:
+    - **Working Memory**: Capacity expands; processing speed increases (myelination/synaptic pruning).
+    - **Attention**: Selective attention improves; ability to shift focus.
+    - **Memory Strategies**: Rehearsal, visualization, rhymes, acronyms.
+      - **Deficiencies**: Mediation (doesn't grasp), Production (doesn't use spontaneously), Utilization (uses but doesn't help).
+    - **Metacognition**: Knowledge about own thinking; regulating cognitive processes.
+  - **Language Development**:
+    - **Vocabulary**: Grows to ~40,000 words by 5th grade.
+    - **Understanding**: Less literal, understands jokes/puns.
+    - **Disorders**:
+      - **Fluency**: Stuttering (dysfluency).
+      - **Articulation**: Inability to produce sounds correctly.
+      - **Voice**: Pitch, loudness, quality issues.
+  - **Theories of Intelligence**:
+    - **General Intelligence (g)**: Spearman; single underlying construct.
+    - **Sternberg's Triarchic Theory**: Analytical, Creative, Practical.
+    - **Gardner's Multiple Intelligences**: 8 types (Linguistic, Logical-Math, Spatial, Musical, Bodily-Kinesthetic, Interpersonal, Intrapersonal, Naturalist).
+  - **Measuring Intelligence**:
+    - **IQ**: Normal distribution (bell curve); Mean=100, SD=15.
+    - **Intellectual Disability**: IQ < 70 + adaptive functioning issues (e.g., Down syndrome).
+    - **Giftedness**: IQ > 130; Terman's study showed they are generally well-adjusted.
+  - **Education & Context**:
+    - **Ecological Systems**: Contexts influence development.
+    - **Stereotypes**: Gender expectations affect performance.
+    - **Family Capital**: Parental involvement/power improves education.
+  - **Common Disabilities**:
+    - **Learning Disabilities (LD)**: Discrepancy between ability and achievement (Dyslexia, Dysgraphia, Dyscalculia).
+    - **ADHD**: Inattention, hyperactivity, impulsivity; 5% of children; boys > girls.
+- **Lesson 6: Cognitive Development in Adolescence**
+  - **Adolescent Brain**:
+    - **Structural Changes**:
+      - **Myelination**: Increases white matter/processing speed; language areas mature.
+      - **Synaptic Pruning**: Gray matter thins/efficiency increases.
+      - **Corpus Callosum**: Thickens (hemisphere connectivity).
+    - **Developmental Mismatch**:
+      - **Limbic System** (Emotion/Reward): Develops early (puberty).
+      - **Prefrontal Cortex** (Control/Planning): Develops late (mid-20s).
+      - **Result**: Risky behavior, poor decision-making, weak emotional control.
+    - **Neurotransmitters**:
+      - **Dopamine**: Peaks (increased reward sensitivity).
+      - **Oxytocin**: Increases social bonding/peer influence.
+    - **Vulnerability**: High risk for mental illness (50% by age 14) and drug damage.
+  - **Sleep**:
+    - **Needs**: 8-10 hours (most get < 7.5).
+    - **Circadian Rhythm**: Shifts later (stay up late/wake up late).
+    - **Consequences of Deprivation**: Depression, substance abuse, obesity, risky sexual behavior.
+    - **School Start Times**: Early starts conflict with biological rhythms.
+- **Lesson 7: Cognitive Development in Adolescence (Continued)**
+  - **Piaget's Formal Operational Stage**:
+    - **Characteristics**: Abstract principles, hypothetical-deductive reasoning (scientific thinking).
+    - **Transitivity**: Logic applied to relationships (A<B, B<C -> A<C).
+    - **Note**: Not all adults reach this stage in all domains.
+  - **Adolescent Egocentrism**:
+    - **Imaginary Audience**: Belief that others are constantly watching/judging.
+    - **Personal Fable**: Belief in one's uniqueness and invulnerability (leads to risk-taking).
+  - **Consequences of Abstract Thought**:
+    - **Introspection**: Thinking about thoughts.
+    - **Idealism**: High standards, critical of adults.
+    - **Pseudostupidity**: Overcomplicating simple problems.
+  - **Information Processing**:
+    - **Executive Function**: Improvements in attention, working memory, flexibility.
+    - **Self-Regulation**: Can fail under stress/high demand.
+    - **Reasoning Types**:
+      - **Inductive** (Bottom-up): Specific observations -> General conclusion.
+      - **Deductive** (Top-down): General principle -> Specific conclusion.
+    - **Dual-Process Model**: Intuitive (fast/emotional) vs. Analytic (slow/rational). Teens often rely on intuitive.
+  - **Education**:
+    - **Transitions**: Middle/High school transitions can cause disengagement.
+    - **Gender**: Girls often have higher grades/motivation but more anxiety.
+    - **Dropouts**: Rate declined (6.1% in 2016). Risk factors: Foster care, poverty, disability, unsafe neighborhoods.
+- **Lesson 8: Psychosocial Development in Middle Childhood**
+  - **Erikson: Industry vs. Inferiority**:
+    - **Industry**: Busy planning, playing, being social. Success = Competence.
+    - **Inferiority**: Failure/criticism leads to feelings of inadequacy.
+  - **Moral Development (Kohlberg)**:
+    - **Preconventional**: Punishment/Reward (Self-interest).
+    - **Conventional**: Social rules/Laws (Good boy/girl, Law & Order).
+    - **Postconventional**: Universal principles/Justice (Social Contract).
+  - **Friendship**:
+    - **Importance**: Shift from family to peers; affects self-esteem.
+    - **Stages (Selman)**:
+      1. **Momentary**: Proximity/Play (3-6 yrs).
+      2. **One-way Assistance**: "What you do for me" (5-9 yrs).
+      3. **Fair-weather Cooperation**: Reciprocity/Fairness (7-12 yrs).
+      4. **Intimate/Mutual Sharing**: Trust/Secrets (8-15 yrs).
+      5. **Autonomous Interdependence**: Acceptance of differences (12+ yrs).
+  - **Family Dynamics**:
+    - **Gay/Lesbian Parents**: No difference in child outcomes (adjustment, gender identity, sexual orientation).
+    - **Divorce**:
+      - **Impact**: Behavior problems, financial drop (25-50% for mothers), loss of contact.
+      - **Long-term**: 25% have issues (vs 10% intact).
+      - **Protective Factors**: Intelligence, easy temperament, supportive custodial parent.
+    - **Blended Families**: 16% of children. Complex rules; stepparent-stepchild friction common.
+    - **Cohabitation**: Often short-lived; creates instability.
+- **Lesson 9: Psychosocial Development in Adolescence**
+  - **Adolescent Pregnancy**:
+    - **Risks**: Low education, poverty, limited job prospects.
+    - **Prevention**: Education and birth control.
+  - **Eating Disorders**:
+    - **Anorexia Nervosa**: Fear of weight gain; self-starvation. Highest mortality rate (heart failure).
+    - **Bulimia Nervosa**: Binge eating followed by purging. Damages digestive system/heart.
+    - **Binge-Eating Disorder**: Binging without purging. Risks: Obesity, diabetes, high BP.
+    - **Muscle Dysmorphia**: Obsession with being too small/not muscular enough.
+    - **Treatment**: Multidisciplinary (Medical, Nutritional, Psychotherapy).
+- **Lesson 10: Identity in Adolescence**
+  - **Self-Concept**:
+    - **Contradictions**: Teens often feel like "frauds" due to varying behavior in different contexts.
+    - **Self-Esteem**: Drops during school transitions; rises in late adolescence.
+  - **Erikson: Identity vs. Role Confusion**:
+    - **Task**: "Who am I?" (Career, values, sexuality).
+    - **Psychological Moratorium**: Time out to explore options without commitment.
+  - **Marcia's Identity Statuses**:
+    - **Diffusion**: No exploration, no commitment (aimless).
+    - **Foreclosure**: Commitment without exploration (e.g., taking over family business blindly).
+    - **Moratorium**: Active exploration, no commitment (anxious).
+    - **Achievement**: Commitment after exploration.
+  - **Ethnic Identity (Phinney)**:
+    - **Unexamined**: Preference for dominant culture or lack of interest.
+    - **Search**: Exploring heritage (often triggered by prejudice or event).
+    - **Achieved**: Acceptance and understanding of ethnicity.
+    - **MAMA Cycling**: Moving between Moratorium and Achievement.
+  - **Other Identities**:
+    - **Bicultural**: Identifying with both ethnic group and larger society.
+    - **Negative Identity**: Adopting norms opposite to family/culture (hostile/cynical).
+- **Lesson 11: Social Development in Adolescence**
+  - **Autonomy & Attachment**:
+    - **Autonomy**: Desire for independence; leads to conflict (chores, curfew, appearance).
+    - **Attachment**: Secure attachment predicts better outcomes (less drug use, better peer relations).
+  - **Groups**:
+    - **Clique**: Small, frequent interaction (friendship-based).
+    - **Crowd**: Large, reputation-based (e.g., "jocks"), may not interact.
+  - **Romantic Relationships**: First emerge in adolescence; facilitated by mixed-sex groups.
+- **Lesson 12: Social Contexts**
+  - **Peer Relationships (Sociometric Assessment)**:
+    - **Popular**:
+      - **Prosocial**: Nice, good social skills, academic.
+      - **Antisocial**: Tough, spreads rumors ("cool" but mean).
+    - **Rejected**:
+      - **Withdrawn**: Shy, easy targets for bullies.
+      - **Aggressive**: Loud, confrontational, insecure.
+    - **Controversial**: Many likes AND dislikes.
+    - **Neglected**: Rarely mentioned.
+    - **Average**: Few likes, few dislikes.
+  - **Long-term Impact**:
+    - **Popularity**: Predicts adult success (marriage, career, health).
+    - **Unpopularity**: Linked to anxiety, depression, obesity, inflammation.
+  - **Family Context**:
+    - **Functions**: Providing food, shelter, love, self-confidence.
+    - **Trends**: Increase in single/cohabiting parents.
+    - **Impact**: Single-parent households often have lower economic status, negatively affecting children.
+
+## Section 3: Introduction (Adulthood)
+- **Lesson 1: Emerging and Early Adulthood**
+  - **Physiological Peak**:
+    - **Timing**: Early 20s to mid-40s.
+    - **Peak Performance**: Muscle strength, reaction time, cardiac function, reproductive system.
+    - **Aging Signs**: Starts ~30. Lens stiffens, hearing declines (men faster), hair thins/grays, skin wrinkles.
+  - **Obesity**:
+    - **Definitions (BMI)**: Overweight (25-29.9), Obese (30+), Extreme Obesity (40+).
+    - **Prevalence**: High in US (39.8% obese in 2016).
+    - **Causes**: Complex interaction of environment, behavior, and genetics (energy-thrifty genes).
+    - **Consequences**: Hypertension, Type 2 Diabetes, Heart Disease, Sleep Apnea.
+  - **Health Risks**:
+    - **Top Causes of Death**: Non-intentional injury, homicide, suicide.
+    - **Violent Death**: Highest rates in young adult males.
+  - **Substance Abuse**:
+    - **Alcohol**:
+      - **Binge Drinking**: 5+ drinks (men), 4+ drinks (women) in ~2 hours.
+      - **College Students**: Higher rates of binge/heavy drinking. Linked to sexual assault (80% involve alcohol).
+    - **Illicit Drugs**: Use peaks ages 19-22. Opioid misuse and marijuana use are concerns.
+    - **Consequences**: Impaired judgment, risky sexual behavior, overdose.
+- **Lesson 2: Physical Development in Middle Adulthood**
+  - **Physical Changes**:
+    - **General Aging**:
+      - **Hair**: Grays due to pigment loss; thins due to follicle destruction.
+      - **Skin**: Wrinkles (loss of elasticity/collagen), age spots, skin tags.
+      - **Muscles**: **Sarcopenia** (loss of muscle mass/strength) accelerates; can be mitigated by exercise.
+      - **Lungs**: Lung capacity decreases; diaphragm weakens.
+    - **Sensory Changes**:
+      - **Vision**: **Presbyopia** (loss of lens elasticity, difficulty focusing on near objects) is common. Other issues: dry eye, floaters, glaucoma, and reduced night vision (scotopic sensitivity).
+      - **Hearing**: **Presbycusis** (loss of high-frequency hearing) is the most common cause of hearing loss (sensorineural).
+
+  - **Health Concerns**:
+    - **Chronic Conditions**:
+      - **Heart Disease**: Leading cause of death; risk factors include high BP, cholesterol, smoking.
+      - **Cancer**: Second leading cause of death.
+      - **Diabetes**: Type 2 is most common (90-95%); linked to obesity and insulin resistance. Complications: retinopathy, neuropathy, kidney failure.
+      - **Metabolic Syndrome**: Cluster of conditions (high BP, high blood sugar, excess waist fat, abnormal cholesterol) increasing risk of heart disease/diabetes.
+      - **Rheumatoid Arthritis (RA)**: Autoimmune inflammatory disease affecting joints (distinct from osteoarthritis).
+    - **Sleep**:
+      - Recommended: 7+ hours. Many get less, leading to immune suppression, obesity, and cognitive decline.
+      - Disorders: **Sleep Apnea** (breathing stops/starts), **Insomnia**.
+      - Factors: Stress, pain, menopause, and children in the home affect sleep quality.
+
+  - **Exercise and Nutrition**:
+    - **Metabolism**: Slows down; caloric needs decrease (e.g., sedentary male 41-45 needs ~2200 cal vs 2400 at 36-40).
+    - **Exercise Guidelines**: 150 mins moderate or 75 mins vigorous aerobic activity per week, plus muscle-strengthening 2+ days/week.
+    - **Dietary Limits**:
+      - Sodium: < 2,300 mg/day (ideal 1,500 mg for high BP).
+      - Saturated Fat: < 10% of calories.
+      - Added Sugar: < 10% of calories.
+
+  - **Reproductive Health (The Climacteric)**:
+    - **Climacteric**: Midlife transition when fertility declines.
+    - **Menopause**:
+      - Defined as 12 months without menstruation (average age 51).
+      - **Perimenopause**: Transition period (ovaries produce less estrogen/progesterone); cycles become irregular.
+      - **Symptoms**: Hot flashes, night sweats, vaginal dryness, sleep disturbances, mood changes.
+      - **Ethnicity**: Symptoms vary (e.g., Japanese/Chinese women report fewer symptoms than White/Black women).
+    - **Hormone Replacement Therapy (HRT)**: Used for symptom relief but associated with risks (breast cancer, stroke, blood clots).
+- **Lesson 3: Physical Development in Late Adulthood**
+  - **Stages of Late Adulthood**:
+    - **Young-old (65-74)**: "Golden years"; typically good health, independent, socially engaged.
+    - **Old-old (75-84)**: Chronic diseases increase (e.g., heart failure), but many live independently.
+    - **Oldest-old (85-99)**: Fastest-growing group; higher rates of hospitalization and long-term care needs.
+    - **Centenarians (100+)**: Often delay chronic illness until very late; "Supercentenarians" are 110+.
+  - **Life Expectancy vs. Life Span**:
+    - **Maximum Life Span**: Greatest age reached (humans: 120-125 years).
+    - **Life Expectancy**: Average years lived (US: ~78.6 years). Females generally live longer than males.
+    - **Healthy Life Expectancy**: Years of full health expected at birth.
+  - **Physical Changes**:
+    - **General**: Heart muscles thicken, arteries stiffen, lung capacity diminishes, kidneys/bladder less efficient.
+    - **Body Composition**:
+      - **Fat/Muscle**: Fat increases (until ~55 men/65 women, then weight loss common); **Sarcopenia** (muscle loss) continues.
+      - **Height**: Loss of 1-3 inches due to bone/muscle/joint changes.
+    - **Skin & Hair**: Skin thins, loses elasticity (wrinkles), age spots, skin tags. Hair thins and grays; facial hair may increase in women/men (ears/nose).
+  - **Sensory Changes**:
+    - **Vision**:
+      - **Cataracts**: Clouding of the lens (very common).
+      - **Macular Degeneration**: Loss of central vision (Dry = drusen deposits; Wet = abnormal blood vessels).
+      - **Glaucoma**: Loss of peripheral vision due to fluid pressure/optic nerve damage.
+    - **Hearing**: **Presbycusis** (gradual loss), **Tinnitus** (ringing/hissing).
+    - **Smell/Taste**: **Presbyosmia** (loss of smell) and **Anosmia** (total loss). Taste sensitivity declines after 60.
+  - **Chronic Illnesses**:
+    - **Prevalence**: 90% of those 75+ have a chronic condition.
+    - **Common Conditions**: High Cholesterol, Hypertension, Arthritis, Cancer, Diabetes, Heart Disease.
+    - **Heart Disease**: Leading cause of death (atherosclerosis is common but not "normal" aging).
+    - **Cancer**: Age is a major risk factor (60% of new diagnoses in 65+).
+    - **Arthritis**: **Osteoarthritis** (wear and tear) is the most common type.
+- **Lesson 4: Cognitive Development in Early Adulthood**
+  - **Beyond Formal Operational Thought**:
+    - **Postformal Thought**: Advanced thinking emerging in adulthood.
+      - **Characteristics**: Realistic, practical, adaptive, and less influenced by others.
+      - **Contrast**: Adolescents focus on possibilities/ideals; Adults consider probabilities/realities based on experience.
+  - **Dialectical Thought**:
+    - Considered the most advanced aspect of postformal thinking.
+    - **Dichotomies**: Adolescents tend to think in black/white terms (good/bad, true/false).
+    - **Dialectical**: Adults recognize shades of gray and can synthesize opposing viewpoints (e.g., seeing parents as people with both strengths and weaknesses).
+  - **Formal Operational Thought (Revisited)**:
+    - **Abstract Thinking**: Ability to consider possibilities not directly experienced.
+    - **Variability**: Not universal in adulthood; heavily influenced by education and experience.
+    - **Domain-Specific**: Easier to think abstractly in areas of expertise/knowledge base.
+- **Lesson 5: Cognitive Development in Middle Adulthood**
+  - **Brain Functioning**:
+    - **Plasticity**: Brain continues to rewire itself based on experiences.
+    - **Bi-lateralization**: Simultaneous use of both brain hemispheres; more common in high-performing older adults (compensatory).
+    - **White Matter**: Increases into the 50s (connections), then declines.
+    - **Emotional Regulation**: Middle-aged brain is calmer, less neurotic, and focuses more on positive information.
+  - **Fluid vs. Crystallized Intelligence**:
+    - **Fluid Intelligence**: Capacity to learn new problem-solving methods, speed, and abstract thinking. **Decreases** with age.
+    - **Crystallized Intelligence**: Accumulated knowledge (vocabulary, facts, history). **Increases** with age.
+    - **Wisdom**: Superior knowledge and sophisticated understanding compensate for slower processing speed.
+    - **Performance**: Older adults may be slower (fluid) but have more knowledge to draw upon (crystallized), often outperforming youth in knowledge-based tasks.
+- **Lesson 6: Cognitive Development in Late Adulthood**
+  - **Neurocognitive Disorders (NCDs)**:
+    - **Terminology**: Replaces "Dementia" in DSM-5.
+    - **Major NCD**: Significant decline interfering with independence.
+    - **Minor NCD**: Modest decline; independence preserved.
+  - **Alzheimer's Disease**:
+    - **Prevalence**: Most common NCD (1 in 9 people over 65).
+    - **Symptoms**: Gradual onset starting with memory loss (hippocampus), followed by confusion, personality changes, and loss of self-care ability.
+    - **Pathology**:
+      - **Beta-Amyloid Plaques**: Sticky protein clumps blocking cell communication.
+      - **Tau Tangles**: Twisted protein strands disrupting nutrient transport.
+      - **Microglia**: Failing immune cells that link amyloid and tau.
+    - **Risk Factors**: Age (primary), Genetics (Familial/Early Onset), TBI, Cardiovascular health.
+    - **Sleep Connection**: Poor sleep increases plaque/tangle accumulation; deep sleep helps clear them.
+    - **Prevention**: Healthy lifestyle (diet, exercise, cognitive stimulation) can reduce risk by 60%.
+  - **Other NCDs**:
+    - **Vascular NCD**: Caused by blood vessel blockage (strokes). Abrupt onset, step-wise decline. Linked to hypertension/diabetes.
+    - **Lewy Body NCD**: Protein deposits (Lewy bodies). Combines cognitive decline with motor symptoms (tremors) and hallucinations.
+- **Lesson 7: Psychosocial Development in Early Adulthood**
+  - **Emerging Adulthood (Arnett)**:
+    - **Definition**: Transition period between adolescence and adulthood (ages 18-25/29).
+    - **Five Characteristics**:
+      1.  **Identity Exploration**: Exploring career and love (shifted from adolescence).
+      2.  **Instability**: Frequent changes in jobs, relationships, and residence.
+      3.  **Self-Focus**: Few obligations to others; focus on self-development (distinct from adolescent egocentrism).
+      4.  **Feeling In-Between**: Feeling like an adult in some ways but not others.
+      5.  **Age of Possibilities**: Optimism; opportunity to transform life and move away from difficult upbringings.
+  - **Erikson: Intimacy vs. Isolation (Stage 6)**:
+    - **Goal**: Establishing close, committed relationships.
+    - **Prerequisite**: Identity (Stage 5) must be established before true intimacy can occur.
+    - **Risk**: Failure leads to social isolation.
+  - **Attraction**:
+    - **Similarity**: We like those with similar values/beliefs (**Consensual Validation**).
+    - **Self-Disclosure**: Sharing personal information; must be reciprocal for relationship success.
+    - **Proximity**: Physical nearness increases likelihood of friendship.
+    - **Mere Exposure Effect**: Repeated exposure to a stimulus increases preference for it (familiarity = safety).
+- **Lesson 8: Psychosocial Development in Middle Adulthood**
+  - **Erikson: Generativity vs. Stagnation (Stage 7)**:
+    - **Generativity**: Concern for establishing and guiding the next generation (parenthood, work, mentoring, community).
+    - **Virtue**: Care.
+    - **Stagnation**: Feeling of unproductiveness or lack of growth; self-absorption.
+    - **Benefits**: Generative adults have better mental health, cognitive functioning, and satisfaction.
+  - **Midlife Crisis**:
+    - **Levinson's View**: Believed it was a normal developmental transition of identity/confidence.
+    - **Current Research**: Rare (only ~23% report it). Most midlife adults report high well-being.
+    - **Triggers**: Usually major life events (divorce, job loss) rather than age itself.
+  - **The Sandwich Generation**:
+    - **Definition**: Middle-aged adults caring for aging parents while also raising children (or supporting adult children).
+    - **Prevalence**: ~47% of middle-aged adults.
+    - **Impact**: Increased financial strain and feeling "rushed," but happiness levels are comparable to non-sandwich peers.
+    - **Caregiving**: Women often bear the primary responsibility for care.
+- **Lesson 9: Psychosocial Development in Late Adulthood**
+  - **Erikson: Integrity vs. Despair (Stage 8)**:
+    - **Goal**: Retrospective review of one's life.
+    - **Integrity**: Accepting one's life as well-lived, finding meaning, and accepting death. Leads to **Wisdom**.
+    - **Despair**: Regret over missed opportunities, bitterness, and fear of death.
+  - **Activity Theory**:
+    - Happiness/satisfaction depends on maintaining a high level of activity and engagement.
+    - Replacing lost roles (e.g., retirement) with new ones (e.g., volunteering).
+  - **Generativity in Late Life**:
+    - **Volunteering**: Linked to lower mortality, better health, and higher life satisfaction.
+    - **Grandparents Raising Grandchildren**:
+      - **Prevalence**: Over 5.5 million children live with grandparents.
+      - **Causes**: Parental substance abuse, incarceration, mental illness.
+      - **Challenges**: Financial strain, health issues, lower energy.
+      - **Rewards**: Joy, providing stability for family.
+- **Lesson 10: Emotional Changes in Early Adulthood**
+  - **Socioeconomic Class and Emerging Adulthood**:
+    - **Impact of SES**: Socioeconomic class impacts physical and mental well-being.
+    - **Arnett's Findings**:
+      - Emerging adults from lower SES classes identified more negativity in their emotional lives, including higher levels of depression.
+      - Those in the lowest SES group were more likely to agree that they had not been able to find sufficient financial support to obtain the education they believed they needed.
+  - **Temperament and Personality in Adulthood**:
+    - **Temperament**: Innate characteristics including mood, activity level, and emotional reactivity.
+    - **Stability**: Research indicates temperamental stability holds for many individuals, but environment can have a significant impact.
+      - **Inhibition**: Highly reactive infants (inhibition to the unfamiliar) show temperamental stability into early childhood; shyness in infancy is linked to social anxiety in adulthood.
+      - **Amygdala**: Young adults identified as inhibited toddlers showed heightened activation of the amygdala.
+    - **Personality**: Characteristic manner of thinking, feeling, behaving, and relating to others. Integrates temperament with cultural and environmental influences.
+  - **The Big Five Personality Traits (Five-Factor Model)**:
+    - **Five-Factor Model (OCEAN)**:
+      1. **Openness to Experience**: Appreciation for art, emotion, adventure, unusual ideas, imagination, curiosity.
+      2. **Conscientiousness**: Tendency to show self-discipline, act dutifully, and aim for achievement.
+      3. **Extraversion**: Tendency to experience positive emotions and seek stimulation and company of others.
+      4. **Agreeableness**: Tendency to be compassionate and cooperative rather than suspicious and antagonistic.
+      5. **Neuroticism**: Tendency to experience negative emotions (anger, anxiety, depression); emotional instability.
+    - **Changes in Adulthood**:
+      - Neuroticism and openness tend to decrease with age.
+      - Conscientiousness tends to increase.
+      - Conscientiousness predicts job success, health, longevity, and relationship stability.
+- **Lesson 11: Emotions and Psychosocial Development in Early Adulthood**
+  - **Attachment in Young Adulthood**:
+    - **Hazan and Shaver**:
+      - **Secure**: Easy to get close, comfortable depending on others.
+      - **Avoidant**: Uncomfortable being close, difficult to trust/depend.
+      - **Anxious/Ambivalent**: Worry partner doesn't love them, want to merge completely.
+    - **Bartholomew's Dimensions**:
+      - **Attachment-related Anxiety**: Fear of rejection/abandonment.
+      - **Attachment-related Avoidance**: Discomfort with opening up/dependency.
+    - **Four Styles (Bartholomew)**:
+      - **Secure**: Low anxiety, low avoidance.
+      - **Dismissing**: Low anxiety, high avoidance (trust self, not others).
+      - **Preoccupied**: High anxiety, low avoidance (jealousy, neediness).
+      - **Fearful-Avoidant**: High anxiety, high avoidance (want closeness but fear it).
+  - **Love (Sternberg's Triangular Theory)**:
+    - **Three Components**:
+      1. **Passion**: Intense physical attraction.
+      2. **Intimacy**: Sharing feelings, psychological closeness.
+      3. **Commitment**: Conscious decision to stay together.
+    - **Types of Love**:
+      - **Liking**: Intimacy only (friendship).
+      - **Infatuation**: Passion only (love at first sight).
+      - **Empty Love**: Commitment only (staying for kids/money).
+      - **Romantic Love**: Passion + Intimacy (no commitment).
+      - **Companionate Love**: Intimacy + Commitment (long-term marriage without passion).
+      - **Fatuous Love**: Passion + Commitment (whirlwind courtship).
+      - **Consummate Love**: Passion + Intimacy + Commitment (ideal).
+- **Lesson 12: Emotions and Behavior in Early Adulthood**
+  - **Singlehood**:
+    - **Trends**: Increasing number of adults staying single (1 in 5 never married by 2012).
+    - **Reasons**: Not meeting the right person, financial instability, not ready to settle down.
+  - **Hooking Up**:
+    - **Definition**: Casual sexual encounters without commitment.
+    - **Gender Differences**: Men generally more permissive; women often hope for a relationship.
+    - **Consequences**: Regret, depression, lower self-esteem (especially for women).
+  - **Online Dating**:
+    - **Growth**: Significant increase in use, especially among young adults.
+    - **Dynamics**: Anonymity allows faster intimacy but risks deception (**Catfishing**).
+  - **Cohabitation**:
+    - **Definition**: Living together in a sexual relationship without marriage.
+    - **Trends**: Increasing globally. Often a step in courtship or alternative to marriage.
+    - **Explanations**: Individualism/secularism, economic changes, education requirements.
+  - **Marriage**:
+    - **Trends**: Declining rates and delayed age of first marriage globally.
+    - **Same-Sex Marriage**: Legalized in US (2015) and many other nations.
+    - **Cultural Influences**:
+      - **Endogamy**: Marrying within a specific group (race, religion).
+      - **Homogamy**: Marrying someone with similar characteristics.
+      - **Arranged Marriages**: Declining in favor of personal choice/elopement (e.g., in India).
+  - **Predictors of Marital Harmony (Gottman)**:
+    - **Communication**: More important than compatibility.
+    - **"Marriage Killers"**: Contempt, Criticism, Defensiveness, Stonewalling.
+    - **Positive Deposits**: Positive interactions buffer against conflict.
+  - **Intimate Partner Abuse**:
+    - **Situational Couple Violence**: Violence arising from heated conflict (men and women equally likely).
+    - **Intimate Terrorism**: Use of fear/violence to dominate (mostly men).
+    - **Impact**: Women disproportionately affected by severe violence, stalking, and sexual coercion.
+  - **Parenthood**:
+    - **Trends**: Fertility rate stable (~2.1) but parenthood is delayed.
+    - **Influences on Parenting**:
+      - **Parent Characteristics**: Personality (agreeableness/conscientiousness), developmental history.
+      - **Child Characteristics**: Temperament (easy vs. difficult), gender.
+      - **Contextual Factors**: SES, culture, social support.
+- **Lesson 13: Emotional Changes from Middle Adulthood to End of Life**
+  - **Midlife Crisis**:
+    - **Levinson's Theory**: Proposed midlife transition (40-45) is a time of reevaluation and urgency to fulfill "the dream".
+    - **Current View**: Research (e.g., Vaillant, MacArthur Foundation) suggests midlife crisis is rare (~23%) and usually triggered by life events, not age. Most report high well-being.
+  - **Stress**:
+    - **Definition**: Response to perceived threats (stressors) disturbing homeostasis.
+    - **General Adaptation Syndrome (Selye)**:
+      1. **Alarm Reaction**: Mobilization of resources.
+      2. **Resistance**: Coping with stressor.
+      3. **Exhaustion**: Depletion of resources (leads to illness).
+    - **Impact**: Chronic stress and daily hassles suppress immunity and increase disease risk.
+  - **Coping Strategies**:
+    - **Problem-Focused Coping**: Actively addressing the stressor to solve the problem (e.g., studying for a test). Best for controllable situations.
+    - **Emotion-Focused Coping**: Regulating emotions (e.g., watching a movie to distract). Best for uncontrollable situations (e.g., grief).
+    - **Management**: Exercise, biofeedback, meditation, relaxation.
+- **Lesson 14: Emotions and Psychosocial Development from Middle Adulthood to End of Life**
+  - **Erikson: Integrity vs. Despair**:
+    - **Integrity**: Acceptance of life and death, finding meaning.
+    - **Despair**: Regret, bitterness, fear of death.
+  - **Late Adult Lifestyles**:
+    - **Marriage**: Most common living arrangement for older adults (especially men).
+    - **Widowhood**: Most significant stressor. "Widowhood mortality effect" (increased risk of death).
+    - **Divorce**: Increasing ("Gray Divorce"), though less common than in younger adults.
+    - **Dating**: Men more eager to re-partner; women value autonomy. Online dating is growing.
+    - **Living Apart Together (LAT)**: Committed relationship but maintaining separate homes (autonomy + companionship).
+  - **Gay and Lesbian Elders**:
+    - **Challenges**: Discrimination, health disparities, less family support (fewer children).
+    - **Resilience**: "Families of choice" (friends/community).
+  - **Successful Aging**:
+    - **Rowe & Kahn's Criteria**:
+      1. Avoidance of disease/disability.
+      2. High physical/cognitive functioning.
+      3. Active engagement in life.
+    - **Selective Optimization with Compensation (SOC)**:
+      - **Selection**: Choosing fewer, more meaningful goals.
+      - **Optimization**: Practicing/refining remaining skills.
+      - **Compensation**: Using alternative strategies to bypass limitations.
+- **Lesson 15: Death and Dying**
+  - **Defining Death**:
+    - **UDDA Definition**: Irreversible cessation of circulatory/respiratory functions OR all brain functions (including brain stem).
+    - **Social Death**: The process where others begin to dehumanize and withdraw from the terminally ill person.
+  - **The Dying Process**:
+    - **Physical Changes**:
+      - **Weeks Before**: Appetite loss, increased sleep, weakness.
+      - **Days Before**: Decreased consciousness, "death rattle" (noisy breathing), cooling of extremities, mottling (discoloration).
+  - **Causes and Location**:
+    - **Causes**: Shift from infectious diseases (1900s) to chronic diseases (Heart Disease, Cancer, Stroke).
+    - **Location**: Most prefer to die at home (80%), but most die in hospitals (60%) or nursing homes (20%).
+  - **Developmental Perspectives**:
+    - **Childhood**:
+      - **Early**: View death as temporary/reversible (sleep). May feel responsible (magical thinking).
+      - **Middle**: Understand finality but may still feel guilt.
+      - **Late**: Understand universality.
+    - **Adolescence**: Abstract understanding but "Personal Fable" leads to feeling immune.
+    - **Adulthood**:
+      - **Early**: Low anxiety.
+      - **Middle**: Highest anxiety (worry about leaving children/parents).
+      - **Late**: Lowest anxiety; focus on control over the dying process.
+  - **End-of-Life Care**:
+    - **Curative Care**: Focus on curing the disease.
+    - **Palliative Care**: Focus on comfort and pain relief (can be used with curative care).
+    - **Hospice Care**: For terminally ill (<6 months to live). Focus on comfort (palliative) and support for patient/family. No invasive treatments.
+  - **Grief and Mourning**:
+    - **Definitions**:
+      - **Grief**: Psychological/emotional reaction to loss.
+      - **Bereavement**: The period following a loss.
+      - **Mourning**: Cultural/social expression of grief.
+    - **Types of Grief**:
+      - **Complicated Grief**: Prolonged, intense, maladaptive (similar to major depression).
+      - **Disenfranchised Grief**: Grief not socially recognized (e.g., suicide, ex-spouse, pet).
+      - **Anticipatory Grief**: Grief experienced before the death occurs.
+    - **Theories**:
+      - **Kübler-Ross (Five Stages)**: Denial, Anger, Bargaining, Depression, Acceptance. (Critique: Not universal or linear).
+      - **Dual-Process Model**: Oscillating between **Loss Orientation** (coping with loss) and **Restoration Orientation** (adjusting to new life).
+      - **Worden's Tasks**: Accept reality, process pain, adjust to world without deceased, find enduring connection while moving forward.
