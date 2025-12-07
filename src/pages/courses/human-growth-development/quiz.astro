@@ -277,6 +277,9 @@ import questionBank from './_question_bank.json';
 		label.style.color = '#000';
 		label.style.fontWeight = '500';
 
+		choiceDiv.appendChild(input);
+		choiceDiv.appendChild(label);
+
 			// Add click handler for the entire div
 			choiceDiv.addEventListener('click', (e) => {
 				if (e.target.tagName !== 'INPUT') {
