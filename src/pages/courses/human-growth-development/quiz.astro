@@ -274,9 +274,8 @@ import questionBank from './_question_bank.json';
 			const label = document.createElement('label');
 			label.htmlFor = `choice-${choice.id}`;
 			label.textContent = choice.text;
-
-			choiceDiv.appendChild(input);
-			choiceDiv.appendChild(label);
+		label.style.color = '#000';
+		label.style.fontWeight = '500';
 
 			// Add click handler for the entire div
 			choiceDiv.addEventListener('click', (e) => {
